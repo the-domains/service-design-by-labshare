@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://vimeo.stfi.re'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.stfi.re
+  url: 'http://vimeo.stfi.re'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - designer
   - service
@@ -31,13 +31,15 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'http://vimeo.stfi.re/145936848?sf=bpnraa'
 title: Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015
-datePublished: '2016-02-03T13:13:00.613Z'
-dateModified: '2016-02-03T13:08:09.173Z'
+datePublished: '2016-02-03T13:20:48.970Z'
+dateModified: '2016-02-03T13:20:43.197Z'
 sourcePath: _posts/2016-02-03-katie-koch-putting-service-design-into-practice-servic.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
