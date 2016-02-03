@@ -1,7 +1,7 @@
 name: Service Design by Labshare
 favicon: null
-layout_spectrum: 0.4359681489877403
-typography_spectrum: 0.47572629479691386
+layout_spectrum: 0.95856
+typography_spectrum: 0.17547
 title: Design engineering services by service design and business architecture
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.012802981305867434
-  lightness: 0.06585901114158332
-  saturation: 0.40732597932219505
-  rhythmicContrast: 0.9422789274249226
+    - '#ffffff'
+    - '#000000'
+    - '#484848'
+    - '#878787'
+    - '#f13227'
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
