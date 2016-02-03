@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Service Design by Labshare]]></title>
         <description><![CDATA[Service Design by Labshare]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 13:13:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 13:13:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[50 Top Industrial Design Online Resources]]></title>
+            <description><![CDATA[<article><h1>50 Top Industrial Design Online Resources</h1><p>As the Internet of Things, wearables, consumer technology demands, and and the desire for innovation boom, industrial designers are in high demand. Industrial designers rely on their imagination to develop concepts and designs for manufactured products, and they use a variety of tools and resources to help them in their work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20e1a694ca60a86dbb7135329f819f8ee239e65d.png"></article>]]></description>
+            <link>http://www.pannam.stfi.re/blog/industrial-design-resources/?sf=djnybj</link>
+            <guid isPermaLink="false">b3bb4b6e-f1bd-49db-80d9-ba2f1409ce00</guid>
+            <pubDate>Wed, 03 Feb 2016 13:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015]]></title>
             <description><![CDATA[<article><h1>Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015</h1><p>How do you practice service design when you don't have the budget, time, or scope to impact the entire service? On my design team at American Express we've...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/089ca3b2e27e47d46a2600ccd8bcfb37a9316c7e.jpg"></article>]]></description>
