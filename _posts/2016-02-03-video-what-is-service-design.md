@@ -9,10 +9,10 @@ related:
     thumbnail_url: 'http://a.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2015/06/3047814-poster-p-1-35-books-every-designer-should-read.jpg'
     thumbnail_width: 620
 publisher:
-  url: 'http://www.designcouncil.org.uk'
   name: Design Council
-  favicon: 'http://www.designcouncil.org.uk/sites/all/themes/designcouncil/favicon.ico'
   domain: www.designcouncil.org.uk
+  url: 'http://www.designcouncil.org.uk'
+  favicon: 'http://www.designcouncil.org.uk/sites/all/themes/designcouncil/favicon.ico'
 keywords:
   - four-part
   - methods
@@ -29,13 +29,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.designcouncil.org.uk/news-opinion/video-what-service-design?utm_content=buffer39f7e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
 title: 'Video: What is service design?'
-datePublished: '2016-02-03T13:15:29.182Z'
-dateModified: '2015-12-29T06:14:36.205Z'
+datePublished: '2016-02-03T13:21:28.662Z'
+dateModified: '2016-02-03T13:21:23.961Z'
 sourcePath: _posts/2016-02-03-video-what-is-service-design.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
