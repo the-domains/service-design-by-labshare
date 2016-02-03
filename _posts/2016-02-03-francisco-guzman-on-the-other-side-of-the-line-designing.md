@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://vimeo.stfi.re'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.stfi.re
+  url: 'http://vimeo.stfi.re'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - instacart
   - shoppers
@@ -31,13 +31,15 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'http://vimeo.stfi.re/146054707?sf=xnybee'
 title: 'Francisco Guzman // On the Other Side of the Line: Designing with Shoppers in Mind // Service Experience Conference 2015'
-datePublished: '2016-02-03T13:13:00.693Z'
-dateModified: '2016-02-03T13:01:10.655Z'
+datePublished: '2016-02-03T13:20:56.829Z'
+dateModified: '2016-02-03T13:20:52.979Z'
 sourcePath: _posts/2016-02-03-francisco-guzman-on-the-other-side-of-the-line-designing.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
