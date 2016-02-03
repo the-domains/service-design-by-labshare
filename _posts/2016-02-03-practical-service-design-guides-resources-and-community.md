@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.practicalservicedesign.com'
   name: Practicalservicedesign
-  favicon: 'http://www.practicalservicedesign.com/favicons/favicon-16x16.png'
   domain: www.practicalservicedesign.com
+  url: 'http://www.practicalservicedesign.com'
+  favicon: 'http://www.practicalservicedesign.com/favicons/favicon-16x16.png'
 keywords:
   - empower
   - service
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.practicalservicedesign.com/'
 title: 'Practical Service Design - guides, resources, and community'
-datePublished: '2016-02-03T13:14:53.596Z'
-dateModified: '2015-12-28T09:56:12.495Z'
+datePublished: '2016-02-03T13:21:50.523Z'
+dateModified: '2016-02-03T13:21:47.205Z'
 sourcePath: _posts/2016-02-03-practical-service-design-guides-resources-and-community.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
