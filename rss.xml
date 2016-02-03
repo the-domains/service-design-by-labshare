@@ -4,15 +4,8 @@
         <description><![CDATA[Service Design by Labshare]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 13:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 13:14:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
-            <description><![CDATA[<article><h1>Practical Service Design - guides, resources, and community</h1><p>Our world is now made of services. We need new tools to think across this space, to not only create memorable and valuable experiences for our customers, but also empower our organizations to change the way we do business for the better.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b90875a7e3a582d4b1307e709229f6e4357655cb.jpg"></article>]]></description>
-            <link>http://www.practicalservicedesign.com/</link>
-            <guid isPermaLink="false">ceaa3d97-540d-4a8a-967a-4b65beb816a9</guid>
-            <pubDate>Wed, 03 Feb 2016 13:14:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Oslo University Hospital - Changing the lives of breast cancer patients]]></title>
             <description><![CDATA[<article><h1>Oslo University Hospital - Changing the lives of breast cancer patients</h1><p>Women with a heightened risk of developing breast cancer waited up to three months before they were appointed a time at the Oslo University Hospital for examination and diagnosis. Inefficient, outdated and suboptimal, the processes did not take into account the stress of having to wait for a life-changing verdict.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f1556a30525e195b9b037c497b93856d6fa9368.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.designerhangout.co/</link>
             <guid isPermaLink="false">0cccfe93-47f7-4b28-90fa-32b031b4f604</guid>
             <pubDate>Wed, 03 Feb 2016 13:13:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2016 January Design Magazine]]></title>
+            <description><![CDATA[<article><h1>2016 January Design Magazine</h1><p>This project is straight criticism to the presence of push notifications and questions the relevance of their impact. French designer Pierre-Felix is fascinated with emerging open source technologies. His work questions objects that are now network-connected and inquires about their future. With his 'push revolution!'</p></article>]]></description>
+            <link>http://www.bluelarix.stfi.re/industrial-design-magazine/2016-january-design-magazine.html?sf=jenbwp</link>
+            <guid isPermaLink="false">0fb968a6-8670-46a0-b2e9-ce72fceed53b</guid>
+            <pubDate>Wed, 03 Feb 2016 13:13:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
