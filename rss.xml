@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 10:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 10:25:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better User Experience With Storytelling - Part 2 - Smashing Magazine]]></title>
+            <description><![CDATA[<article><h1>Better User Experience With Storytelling - Part 2 - Smashing Magazine</h1><p>In the first part of this Better User Experience With Storytelling series, we explored some of the basic structures and story patterns found in myths and religions. We saw how these patterns continued into modern stories such as The Matrix and Star Wars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71351a3ace4ab2ef07e4dc7e8f47824a59c75447.jpg"></article>]]></description>
+            <link>http://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/#more-28415</link>
+            <guid isPermaLink="false">270a6759-2ef4-4f1a-9546-d90517235be8</guid>
+            <pubDate>Thu, 04 Feb 2016 10:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Service Design Research]]></title>
@@ -68,13 +75,6 @@
             <link>http://visualhierarchy.stfi.re/blog/making-the-user-trust-your-ui?sf=djxgxj</link>
             <guid isPermaLink="false">263ffd75-bca1-46c0-923b-bac1ad4b343b</guid>
             <pubDate>Thu, 04 Feb 2016 10:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EA Enterprise Services Can Take Your Company To The Next Level]]></title>
-            <description><![CDATA[<article><h1>EA Enterprise Services Can Take Your Company To The Next Level</h1><p>Strategy and EA projects Capability planning, technology strategies, blueprints and investment roadmaps, application portfolio planning, technology reference models Learn More Strategic frameworks Business Architecture Framework, Security Architecture Framework, Enterprise Cloud Framework, Customer Experience Framework Learn More EA capability development Practice development, maturity assessment, service catalogue, operating model design, training, recruiting and our Managed Architect Service workforce solution Learn More Recruitment solutions Our flexible architecture workforce solution - the Managed Architect Service, or supporting individual requirements for permanent and contract positions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9f118994d9246ff93a0da6481fdf6e51ca99129.jpg"></article>]]></description>
-            <link>http://enterprisearchitects.com/services/enterprise-services/</link>
-            <guid isPermaLink="false">df758c5c-3cec-448d-affb-45e77b1a8620</guid>
-            <pubDate>Wed, 03 Feb 2016 13:15:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
