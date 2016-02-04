@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 10:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 10:24:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Service Design Research]]></title>
+            <description><![CDATA[<article><h1>Service Design Research</h1><p>From the article: "Recent research projects have looked for social innovations, i.e., people creating solutions outside the mainstream patterns of production and consumption. An analysis of these innovations indicates the emergence of a particular kind of service configurationdefined here as relational serviceswhich requires intensive interpersonal relations to operate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf8c2508cd5b8398c6301947bc72aa9d26f5c165.png"></article>]]></description>
+            <link>http://howardesign.com/exp/service/</link>
+            <guid isPermaLink="false">f5bc9864-fca2-4eb9-9020-6e3fcb021590</guid>
+            <pubDate>Thu, 04 Feb 2016 10:24:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lessons from 5 years of Lean UX - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>Lessons from 5 years of Lean UX - InVision Blog</h1><p>Since the idea first percolated in 2010 through to its current state as a permanent hashtag on Twitter, Lean UX changed the way we look at designing products-including how we work with our colleagues in product management, software engineering, marketing, and executive leadership.</p><img src="http://s3.amazonaws.com/blog.invisionapp.com/uploads/2016/01/Negative-environment.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Lessons from 5 years of Lean UX - InVision Blog</h1><p>Since the idea first percolated in 2010 through to its current state as a permanent hashtag on Twitter, Lean UX changed the way we look at designing products-including how we work with our colleagues in product management, software engineering, marketing, and executive leadership.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd09d16fe72e570cad974e1d0a301c0750de6dd8.jpg"></article>]]></description>
             <link>http://blog.invisionapp.stfi.re/5-years-lean-ux-jeff-gothelf/</link>
             <guid isPermaLink="false">9fb08053-b835-4584-afe8-5ab878465ce1</guid>
             <pubDate>Thu, 04 Feb 2016 10:21:05 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>EA Enterprise Services Can Take Your Company To The Next Level</h1><p>Strategy and EA projects Capability planning, technology strategies, blueprints and investment roadmaps, application portfolio planning, technology reference models Learn More Strategic frameworks Business Architecture Framework, Security Architecture Framework, Enterprise Cloud Framework, Customer Experience Framework Learn More EA capability development Practice development, maturity assessment, service catalogue, operating model design, training, recruiting and our Managed Architect Service workforce solution Learn More Recruitment solutions Our flexible architecture workforce solution - the Managed Architect Service, or supporting individual requirements for permanent and contract positions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9f118994d9246ff93a0da6481fdf6e51ca99129.jpg"></article>]]></description>
             <link>http://enterprisearchitects.com/services/enterprise-services/</link>
             <guid isPermaLink="false">df758c5c-3cec-448d-affb-45e77b1a8620</guid>
-            <pubDate>Wed, 03 Feb 2016 13:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Comprehensive Reading List for and by Designers - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>A Comprehensive Reading List for and by Designers - InVision Blog</h1><p>Being big bibliophiles here at InVision, we asked some of our favorite designers to recommend the book that inspired them the most this past year. Check out the 90* most popular answers and the top designers who recommend them, plus 5 inspiring periodicals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e878340cfbc85ab140a163d65033192f40ea38ba.jpg"></article>]]></description>
-            <link>http://blog.invisionapp.com/reading-list-for-designers/</link>
-            <guid isPermaLink="false">80eb32e4-7421-4f2e-be73-f192113ab3de</guid>
             <pubDate>Wed, 03 Feb 2016 13:15:57 GMT</pubDate>
         </item>
     </channel>
