@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 10:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 10:21:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The value of consistent design - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>The value of consistent design - InVision Blog</h1><p>To many designers, consistency doesn't scream sexy. But to anyone with an understanding of user experience, there couldn't be a bigger turn on. We should design with this in mind. Anyone who tells you their product was a success because of the intuitive design they created is overselling their skills.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42bcdd03e840868f3aa5f7a63f9b18045e76ce6c.jpg"></article>]]></description>
+            <link>http://blog.invisionapp.stfi.re/consistent-design/</link>
+            <guid isPermaLink="false">1d5c5267-8bb2-4934-9032-cdeefd641c73</guid>
+            <pubDate>Thu, 04 Feb 2016 10:20:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Making The User Trust Your UI]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Designing the Organization from Service Design Perspective</h1><p>Aesthetics and the Ideology of Service and Service Design The term "Service Design" is said to have been coined in early 1990s where educational program dedicated to Service Design firstly appeared in Köln International School of Design. Later on in 2004 the Service Design Network was founded, and since then various discussions on Service Design have been conducted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ff9b337eec8b8e906978ee6de156b7fe463ba59.jpg"></article>]]></description>
             <link>https://medium.com/@mariosakata/designing-the-organization-from-service-design-perspective-9f2bda1dcbbc#.jvjg0gn0v</link>
             <guid isPermaLink="false">95b0694f-25e4-47bf-944d-bfaf87dd6a1f</guid>
-            <pubDate>Wed, 03 Feb 2016 13:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflecting on Service Experience Conference 2015]]></title>
-            <description><![CDATA[<article><h1>Reflecting on Service Experience Conference 2015</h1><p>Adaptive Path hosted their 3rd annual Service Experience Conference last week, November 16 and 17, here in the heart of San Francisco. It was amazing to see so many passionate people come together to talk about designing service experiences. We wanted to share with you some of our thoughts and take-aways from the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bebc88b766008e6514926e4bdc0265979a6ef2d.jpg"></article>]]></description>
-            <link>http://www.practicalservicedesign.com/reflecting-on-service-experience-conference-2015</link>
-            <guid isPermaLink="false">f47f5712-0a61-4147-b8b4-98487e433cf0</guid>
             <pubDate>Wed, 03 Feb 2016 13:15:11 GMT</pubDate>
         </item>
     </channel>
