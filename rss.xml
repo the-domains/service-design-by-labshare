@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 11:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 17:07:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[TP7-3_P28: Who Are You Selling To?]]></title>
+            <description><![CDATA[<article><h1>TP7-3_P28: Who Are You Selling To?</h1><p>Authors: Minna Einiö, Laura Franck, Mariann Parts, Pauline Ranta During the past years, Hellon's sales team has become very successful in selling service design. The yearly turnover has increased at an accelerating pace, reaching a total growth rate of 30% in 2015. The growth can be attributed to a process of learning about our customer base.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/208295bbf8a8dff7df0245c71fd66badbf9c19e9.png"></article>]]></description>
+            <link>http://www.service-design-network.stfi.re/products-page/article/tp7-3_p28/?sf=oxwvpj</link>
+            <guid isPermaLink="false">a61d0002-34e8-44cb-9202-92b423dfc516</guid>
+            <pubDate>Mon, 08 Feb 2016 17:07:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[IBM Design: design in motion]]></title>
-            <description><![CDATA[<article><h1>IBM Design: design in motion</h1><p>Design is a constant exploration of creation and destruction; of cacophony and utter loneliness. We need space and spaces. Where we argue, play, rest, think. Welcome to IBM Design Studios.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4ed7b5758ba5146e523e4c5b0de5556f8b5e5af.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>IBM Design: design in motion</h1><p>Design is a constant exploration of creation and destruction; of cacophony and utter loneliness. We need space and spaces. Where we argue, play, rest, think. Welcome to IBM Design Studios.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5ca7e80bf21748d11805e11105577474f9d8ae5.jpg"></article>]]></description>
             <link>http://www.ibm.stfi.re/design/?sf=ggxjxd</link>
             <guid isPermaLink="false">0ca09e40-d9e2-4864-83ba-69ac030affca</guid>
             <pubDate>Fri, 05 Feb 2016 11:17:59 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>UX design tips for your app, part 2 - InVision Blog</h1><p>Let's continue talking about the user experience in the context of apps. Tips such as making the UX adapt to the user, network-awareness, onboarding, and other concepts related to the user experience were covered in the first segment of this article series. Here are a few other UX tips to consider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acfe9d2f08ffbdcca08f1998643f0af30472c011.png"></article>]]></description>
             <link>http://blog.invisionapp.stfi.re/more-ux-design-tips/</link>
             <guid isPermaLink="false">7c19faa9-bbb7-481c-9996-92dfb8ac75fc</guid>
-            <pubDate>Thu, 04 Feb 2016 10:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The value of consistent design - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>The value of consistent design - InVision Blog</h1><p>To many designers, consistency doesn't scream sexy. But to anyone with an understanding of user experience, there couldn't be a bigger turn on. We should design with this in mind. Anyone who tells you their product was a success because of the intuitive design they created is overselling their skills.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10dcb5cf614d17ecfaecba2486d7660fe262ac0a.jpg"></article>]]></description>
-            <link>http://blog.invisionapp.stfi.re/consistent-design/</link>
-            <guid isPermaLink="false">1d5c5267-8bb2-4934-9032-cdeefd641c73</guid>
             <pubDate>Thu, 04 Feb 2016 10:20:47 GMT</pubDate>
         </item>
     </channel>
