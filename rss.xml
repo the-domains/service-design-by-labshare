@@ -4,7 +4,7 @@
         <description><![CDATA[Service Design by Labshare]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 09:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 09:52:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,13 +33,6 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sound of empowerment]]></title>
-            <description><![CDATA[<article><h1>The sound of empowerment</h1><p>GN ReSound and Designit have partnered together to put personalisation and control back in the hands of the users, with the first hearing aid interface for the Apple Watch. Developing innovative new solutions for hearing loss has been a common goal for Designit and GN ReSound, a global market leader in hearing care solutions, since first working together in 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/943b2e2c62d1cffe1b5a1f5897bd337d30893b53.png"></article>]]></description>
-            <link>https://designit.com/cases/the-sound-of-empowerment</link>
-            <guid isPermaLink="false">cd4007ec-94f0-4551-9443-1e78a505f23a</guid>
-            <pubDate>Tue, 09 Feb 2016 09:51:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Designit]]></title>
@@ -75,6 +68,13 @@
             <link>http://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/#more-28415</link>
             <guid isPermaLink="false">270a6759-2ef4-4f1a-9546-d90517235be8</guid>
             <pubDate>Thu, 04 Feb 2016 10:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Service Design Research]]></title>
+            <description><![CDATA[<article><h1>Service Design Research</h1><p>From the article: "Recent research projects have looked for social innovations, i.e., people creating solutions outside the mainstream patterns of production and consumption. An analysis of these innovations indicates the emergence of a particular kind of service configurationdefined here as relational serviceswhich requires intensive interpersonal relations to operate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70d2b089243f80a9f5fcd989af1b10a3000410e3.png"></article>]]></description>
+            <link>http://howardesign.com/exp/service/</link>
+            <guid isPermaLink="false">f5bc9864-fca2-4eb9-9020-6e3fcb021590</guid>
+            <pubDate>Thu, 04 Feb 2016 10:24:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
