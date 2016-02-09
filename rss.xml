@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Design engineering services by service design and business architecture]]></title>
-        <description><![CDATA[Design engineering services by service design and business architecture]]></description>
+        <title><![CDATA[Service Design by Labshare]]></title>
+        <description><![CDATA[Service Design by Labshare]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 09:51:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Game Changing Business Models]]></title>
+            <description><![CDATA[<article><h1>Game Changing Business Models</h1><p>In our industry, it's not uncommon for entrepreneurs to become so mono-focused on the novelty of their product that they forget to innovate sufficiently around their business model. A disruptive business model can be at least as important as a discontinuous innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6645fdfb77af1c2fdd06857289cfeb8d43892259.jpg"></article>]]></description>
+            <link>http://mjskok.stfi.re/resource/game-changing-business-models?sf=xereax</link>
+            <guid isPermaLink="false">fbb6b3c3-bf2f-4459-9ad7-3822b916d9d0</guid>
+            <pubDate>Tue, 09 Feb 2016 09:51:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TP7-3_P28: Who Are You Selling To?]]></title>
-            <description><![CDATA[<article><h1>TP7-3_P28: Who Are You Selling To?</h1><p>Authors: Minna Einiö, Laura Franck, Mariann Parts, Pauline Ranta During the past years, Hellon's sales team has become very successful in selling service design. The yearly turnover has increased at an accelerating pace, reaching a total growth rate of 30% in 2015. The growth can be attributed to a process of learning about our customer base.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/208295bbf8a8dff7df0245c71fd66badbf9c19e9.png"></article>]]></description>
+            <description><![CDATA[<article><h1>TP7-3_P28: Who Are You Selling To?</h1><p>Authors: Minna Einiö, Laura Franck, Mariann Parts, Pauline Ranta During the past years, Hellon's sales team has become very successful in selling service design. The yearly turnover has increased at an accelerating pace, reaching a total growth rate of 30% in 2015. The growth can be attributed to a process of learning about our customer base.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/828721d57f0a7511c3fe1bd313e6198d62ac9600.png"></article>]]></description>
             <link>http://www.service-design-network.stfi.re/products-page/article/tp7-3_p28/?sf=oxwvpj</link>
             <guid isPermaLink="false">a61d0002-34e8-44cb-9202-92b423dfc516</guid>
             <pubDate>Mon, 08 Feb 2016 17:07:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blog.invisionapp.stfi.re/5-years-lean-ux-jeff-gothelf/</link>
             <guid isPermaLink="false">9fb08053-b835-4584-afe8-5ab878465ce1</guid>
             <pubDate>Thu, 04 Feb 2016 10:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UX design tips for your app, part 2 - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>UX design tips for your app, part 2 - InVision Blog</h1><p>Let's continue talking about the user experience in the context of apps. Tips such as making the UX adapt to the user, network-awareness, onboarding, and other concepts related to the user experience were covered in the first segment of this article series. Here are a few other UX tips to consider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acfe9d2f08ffbdcca08f1998643f0af30472c011.png"></article>]]></description>
-            <link>http://blog.invisionapp.stfi.re/more-ux-design-tips/</link>
-            <guid isPermaLink="false">7c19faa9-bbb7-481c-9996-92dfb8ac75fc</guid>
-            <pubDate>Thu, 04 Feb 2016 10:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
