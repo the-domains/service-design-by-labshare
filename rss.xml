@@ -4,7 +4,7 @@
         <description><![CDATA[Service Design by Labshare]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 20:00:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 20:00:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,13 +33,6 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Site Header Inspiration - Muzli -Design Inspiration]]></title>
-            <description><![CDATA[<article><h1>Site Header Inspiration - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91e15976696d22b3c18588b596d6600319eefd4c.png"></article>]]></description>
-            <link>http://medium.stfi.re/muzli-design-inspiration/site-header-inspiration-13f09da1885e?sf=nxgajx#.rdprtsjt4</link>
-            <guid isPermaLink="false">365c3c40-5c4f-422a-b741-e5b629e5e453</guid>
-            <pubDate>Wed, 10 Feb 2016 20:00:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cap Watkins, VP of Design at BuzzFeed]]></title>
@@ -75,6 +68,13 @@
             <link>http://www.service-design-network.stfi.re/products-page/article/tp7-3_p28/?sf=oxwvpj</link>
             <guid isPermaLink="false">a61d0002-34e8-44cb-9202-92b423dfc516</guid>
             <pubDate>Mon, 08 Feb 2016 17:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM Design: design in motion]]></title>
+            <description><![CDATA[<article><h1>IBM Design: design in motion</h1><p>Design is a constant exploration of creation and destruction; of cacophony and utter loneliness. We need space and spaces. Where we argue, play, rest, think. Welcome to IBM Design Studios.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5ca7e80bf21748d11805e11105577474f9d8ae5.jpg"></article>]]></description>
+            <link>http://www.ibm.stfi.re/design/?sf=ggxjxd</link>
+            <guid isPermaLink="false">0ca09e40-d9e2-4864-83ba-69ac030affca</guid>
+            <pubDate>Fri, 05 Feb 2016 11:17:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
