@@ -4,7 +4,7 @@
         <description><![CDATA[Service Design by Labshare]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 13:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 13:15:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,22 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Web Animations In Interaction Design: 2016 And Beyond]]></title>
+            <description><![CDATA[<article><h1>Web Animations In Interaction Design: 2016 And Beyond</h1><p>We'll explain web animation's 5 most effective uses, as well as what to expect the near future. But in order to understand where animation is at now and where it's going, you must first know where it came from.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a482de446bfc763efb1de180c546b34ca2336807.png"></article>]]></description>
+            <link>https://studio.uxpin.com/blog/web-animations-in-interaction-design-2016-and-beyond/?utm_source=facebook&amp;utm_medium=uxlink&amp;utm_campaign=&amp;utm_content=blog</link>
+            <guid isPermaLink="false">b1d21c4b-d053-4c27-aca3-262e760f05d9</guid>
+            <pubDate>Sat, 13 Feb 2016 13:14:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UI Motion Design References]]></title>
+            <description><![CDATA[<article><h1>UI Motion Design References</h1><p>There are quite a few things I like to do before opening my computer and using a design tool like Sketch of Photoshop. One of the first things I do is a competitive analysis and right after some simple mood boards with references for things like animation, typography, colors, simplicity.</p></article>]]></description>
+            <link>http://abduzeedo.stfi.re/ui-motion-design-references?sf=wjvkzw</link>
+            <guid isPermaLink="false">39ce058a-bc53-43b3-8325-00535be3aaeb</guid>
+            <pubDate>Sat, 13 Feb 2016 13:14:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can you Code this UI Concept? Vol. 2 - Design, Code and Prototyping]]></title>
-            <description><![CDATA[<article><h1>Can you Code this UI Concept? Vol. 2 - Design, Code and Prototyping</h1><p>Five (awesome) UI concepts and their CodePen implementation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/511f33c5cb76c989a9b1ab62bcb607b84782092f.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Can you Code this UI Concept? Vol. 2 - Design, Code and Prototyping</h1><p>Five (awesome) UI concepts and their CodePen implementation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/790882289d7413e82086ce63503ed337c1ee3e0c.gif"></article>]]></description>
             <link>http://stories.uplabs.stfi.re/can-you-code-this-ui-concept-vol-2-9c9763269640?sf=rbbrgr#.v3gf85h5o</link>
             <guid isPermaLink="false">bc9867f6-8702-41e3-8060-53d75a50efda</guid>
             <pubDate>Sat, 13 Feb 2016 13:14:07 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://designit.com/cases/the-sound-of-empowerment</link>
             <guid isPermaLink="false">cd4007ec-94f0-4551-9443-1e78a505f23a</guid>
             <pubDate>Tue, 09 Feb 2016 09:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Designit]]></title>
-            <description><![CDATA[<article><h1>Designit</h1><p>Strategic Design Firm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1b586d90cce518d9b15bf8d10f9246e7f9a3842.png"></article>]]></description>
-            <link>https://designit.com/</link>
-            <guid isPermaLink="false">eee557af-4fe6-42dc-96df-6a3bf28663ea</guid>
-            <pubDate>Tue, 09 Feb 2016 09:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Game Changing Business Models]]></title>
-            <description><![CDATA[<article><h1>Game Changing Business Models</h1><p>In our industry, it's not uncommon for entrepreneurs to become so mono-focused on the novelty of their product that they forget to innovate sufficiently around their business model. A disruptive business model can be at least as important as a discontinuous innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/317c1ff44668ff8ccbfeb03118ab4f1d30131e37.jpg"></article>]]></description>
-            <link>http://mjskok.stfi.re/resource/game-changing-business-models?sf=xereax</link>
-            <guid isPermaLink="false">fbb6b3c3-bf2f-4459-9ad7-3822b916d9d0</guid>
-            <pubDate>Tue, 09 Feb 2016 09:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
