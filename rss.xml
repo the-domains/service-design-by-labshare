@@ -4,7 +4,7 @@
         <description><![CDATA[Service Design by Labshare]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 14:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 14:41:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ExperienceFellow - research customer experience with mobile ethnography]]></title>
+            <description><![CDATA[<article><h1>ExperienceFellow - research customer experience with mobile ethnography</h1><p>ExperienceFellow has been developed for quick and easy professional CX research. Its whole concept is based on a solid research method called mobile ethnography. Read more about it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0223973caa84e0a71bc65c365aca089bfdda01e0.png"></article>]]></description>
+            <link>http://www.experiencefellow.com/</link>
+            <guid isPermaLink="false">5bb35577-3a80-44d7-bd6f-3c27e9f2e497</guid>
+            <pubDate>Sat, 13 Feb 2016 14:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[User Onboarding | A frequently-updated compendium of web app first-run experiences]]></title>
@@ -68,13 +75,6 @@
             <link>http://medium.stfi.re/muzli-design-inspiration/site-header-inspiration-13f09da1885e?sf=nxgajx#.rdprtsjt4</link>
             <guid isPermaLink="false">365c3c40-5c4f-422a-b741-e5b629e5e453</guid>
             <pubDate>Wed, 10 Feb 2016 20:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cap Watkins, VP of Design at BuzzFeed]]></title>
-            <description><![CDATA[<article><h1>Cap Watkins, VP of Design at BuzzFeed</h1><p>VP of Design at BuzzFeed</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/882a9750d84f3d09aaf3bada21b6ab8d7e8c9168.jpg"></article>]]></description>
-            <link>http://wayswework.stfi.re/interviews/cap-watkins-vp-of-design-at-buzzfeed?sf=vexwry</link>
-            <guid isPermaLink="false">59e60ca1-6712-4692-b220-8b8ba436ea1a</guid>
-            <pubDate>Wed, 10 Feb 2016 20:00:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
