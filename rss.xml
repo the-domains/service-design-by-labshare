@@ -4,7 +4,7 @@
         <description><![CDATA[Service Design by Labshare]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 11:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 11:59:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Design Kit]]></title>
+            <description><![CDATA[<article><h1>Design Kit</h1><p>Design Kit is IDEO.org's platform to learn human-centered design, a creative approach to solving the world's most difficult problems.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b1fc2fed52a43a1847c42bb33571e15ac1d534a.jpg"></article>]]></description>
+            <link>http://www.designkit.org/methods</link>
+            <guid isPermaLink="false">6bca1604-dd9f-4b94-918c-9a9106cdce54</guid>
+            <pubDate>Wed, 17 Feb 2016 11:58:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10 Best Chrome Extensions For Designers To Skyrocket Your Career]]></title>
-            <description><![CDATA[<article><h1>10 Best Chrome Extensions For Designers To Skyrocket Your Career</h1><p>I've selected some of the best Chrome extensions for designers to skyrocket your career by saving you time, making you a better writer and increasing your focus and productivity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41919cc2c96e8a567a2063886f3784b581c4c7d8.png"></article>]]></description>
+            <description><![CDATA[<article><h1>10 Best Chrome Extensions For Designers To Skyrocket Your Career</h1><p>I've selected some of the best Chrome extensions for designers to skyrocket your career by saving you time, making you a better writer and increasing your focus and productivity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10526776c69fb54349f2664dfdd4394d9be575b1.png"></article>]]></description>
             <link>http://www.forbes.stfi.re/sites/tomaslaurinavicius/2016/02/15/chrome-extensions-for-designers/?sf=zkgyll#6a208c4a680d</link>
             <guid isPermaLink="false">a17297cd-811a-4cf8-a825-38de0eef6030</guid>
             <pubDate>Wed, 17 Feb 2016 11:58:32 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://abduzeedo.stfi.re/ui-motion-design-references?sf=wjvkzw</link>
             <guid isPermaLink="false">39ce058a-bc53-43b3-8325-00535be3aaeb</guid>
             <pubDate>Sat, 13 Feb 2016 13:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can you Code this UI Concept? Vol. 2 - Design, Code and Prototyping]]></title>
-            <description><![CDATA[<article><h1>Can you Code this UI Concept? Vol. 2 - Design, Code and Prototyping</h1><p>Five (awesome) UI concepts and their CodePen implementation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/790882289d7413e82086ce63503ed337c1ee3e0c.gif"></article>]]></description>
-            <link>http://stories.uplabs.stfi.re/can-you-code-this-ui-concept-vol-2-9c9763269640?sf=rbbrgr#.v3gf85h5o</link>
-            <guid isPermaLink="false">bc9867f6-8702-41e3-8060-53d75a50efda</guid>
-            <pubDate>Sat, 13 Feb 2016 13:14:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
