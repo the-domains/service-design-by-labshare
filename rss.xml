@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 15:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 15:34:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bolt Blog]]></title>
+            <description><![CDATA[<article><h1>Bolt Blog</h1><p>Venture Capital Designed for Hardware</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddd8996ff63b51d815647b1366aeb9d3dd44bd79.jpg"></article>]]></description>
+            <link>http://blog.bolt.stfi.re/?sf=ogwlvy</link>
+            <guid isPermaLink="false">ea0369f5-a550-4642-b595-a6e14de9f0ec</guid>
+            <pubDate>Sun, 21 Feb 2016 15:32:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dragon Innovation Blog -]]></title>
-            <description><![CDATA[<article><h1>Dragon Innovation Blog -</h1><p>Chinese New Year (CNY), also known as Spring Festival, is the most important holiday for the Chinese people. This year, Chinese New Year's Day falls on February 8, 2016, with the celebrations lasting approximately 15 days concluding on Monday, February Read more...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35ac4d65f426b7ed8a6e0802dda1e2ae749c24de.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dragon Innovation Blog -</h1><p>Chinese New Year (CNY), also known as Spring Festival, is the most important holiday for the Chinese people. This year, Chinese New Year's Day falls on February 8, 2016, with the celebrations lasting approximately 15 days concluding on Monday, February Read more...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93be86950e38efc60dcd749b023da8ff3e086536.jpg"></article>]]></description>
             <link>http://blog.dragoninnovation.stfi.re/?sf=ewzrnd</link>
             <guid isPermaLink="false">5db50e52-68a7-49dd-bfb4-ab632c1439e6</guid>
             <pubDate>Sun, 21 Feb 2016 15:32:41 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.forbes.stfi.re/sites/tomaslaurinavicius/2016/02/15/chrome-extensions-for-designers/?sf=zkgyll#6a208c4a680d</link>
             <guid isPermaLink="false">a17297cd-811a-4cf8-a825-38de0eef6030</guid>
             <pubDate>Wed, 17 Feb 2016 11:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ExperienceFellow - research customer experience with mobile ethnography]]></title>
-            <description><![CDATA[<article><h1>ExperienceFellow - research customer experience with mobile ethnography</h1><p>ExperienceFellow has been developed for quick and easy professional CX research. Its whole concept is based on a solid research method called mobile ethnography. Read more about it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78897acb8e3ed94d417ee53bc0ac1331634d0eb6.png"></article>]]></description>
-            <link>http://www.experiencefellow.com/</link>
-            <guid isPermaLink="false">5bb35577-3a80-44d7-bd6f-3c27e9f2e497</guid>
-            <pubDate>Sat, 13 Feb 2016 14:40:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
