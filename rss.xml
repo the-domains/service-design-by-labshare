@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 15:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 15:35:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,22 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Art of Product Management]]></title>
+            <description><![CDATA[<article><h1>The Art of Product Management</h1><p>Product managers drive the vision, strategy, design, and execution of their product. In this presentation I share my lessons learned on the art behind each of ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0f7cf83afe05a3a3a927841241b4696107ba805.jpg"></article>]]></description>
+            <link>http://www.slideshare.stfi.re/sachmonkey/the-art-of-product-management-58156816?sf=ewzrwx</link>
+            <guid isPermaLink="false">cf8356f3-a4e3-436f-8d12-786ecb891b85</guid>
+            <pubDate>Sun, 21 Feb 2016 15:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[frog]]></title>
+            <description><![CDATA[<article><h1>frog</h1><p>Written by frog designers, technologists, and strategists, design mind is a digital platform and print magazine providing the design and innovation community with perspectives on industry trends, emerging technologies, and global consumer culture. © 2016 frog design. All rights reserved. Unauthorized usage of this content prohibited.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8e6f0a8cf88f4c99616850d79ed75f30825cf06.png"></article>]]></description>
+            <link>http://designmind.frogdesign.stfi.re/?sf=jbxpyx</link>
+            <guid isPermaLink="false">deeb15f5-5950-4a9f-8813-fe43e6b3233e</guid>
+            <pubDate>Sun, 21 Feb 2016 15:33:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bolt Blog]]></title>
-            <description><![CDATA[<article><h1>Bolt Blog</h1><p>Venture Capital Designed for Hardware</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddd8996ff63b51d815647b1366aeb9d3dd44bd79.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bolt Blog</h1><p>Venture Capital Designed for Hardware</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a967c8500095ebed3c9bfc18d33358df8866288.jpg"></article>]]></description>
             <link>http://blog.bolt.stfi.re/?sf=ogwlvy</link>
             <guid isPermaLink="false">ea0369f5-a550-4642-b595-a6e14de9f0ec</guid>
             <pubDate>Sun, 21 Feb 2016 15:32:51 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://firstround.stfi.re/review/this-company-retains-95-percent-of-its-employees-heres-its-secret/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)&amp;sf=jodjxy</link>
             <guid isPermaLink="false">1da9ea35-3d62-4581-a46b-b481cb172852</guid>
             <pubDate>Thu, 18 Feb 2016 17:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design Kit]]></title>
-            <description><![CDATA[<article><h1>Design Kit</h1><p>Design Kit is IDEO.org's platform to learn human-centered design, a creative approach to solving the world's most difficult problems.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22573ad04fe851eac41a5886a5ecad30867ca44f.jpg"></article>]]></description>
-            <link>http://www.designkit.org/methods</link>
-            <guid isPermaLink="false">6bca1604-dd9f-4b94-918c-9a9106cdce54</guid>
-            <pubDate>Wed, 17 Feb 2016 11:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Best Chrome Extensions For Designers To Skyrocket Your Career]]></title>
-            <description><![CDATA[<article><h1>10 Best Chrome Extensions For Designers To Skyrocket Your Career</h1><p>I've selected some of the best Chrome extensions for designers to skyrocket your career by saving you time, making you a better writer and increasing your focus and productivity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10526776c69fb54349f2664dfdd4394d9be575b1.png"></article>]]></description>
-            <link>http://www.forbes.stfi.re/sites/tomaslaurinavicius/2016/02/15/chrome-extensions-for-designers/?sf=zkgyll#6a208c4a680d</link>
-            <guid isPermaLink="false">a17297cd-811a-4cf8-a825-38de0eef6030</guid>
-            <pubDate>Wed, 17 Feb 2016 11:58:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
