@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 20:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 10:41:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We built an app in 12 days and it's up and running in the AppStore]]></title>
+            <description><![CDATA[<article><h1>We built an app in 12 days and it's up and running in the AppStore</h1><p>We built an app in 12 days and it's up and running in the AppStore 80% of us forget to drink enough water at regular intervals. You would say there are so many apps that do this already! True, but it's not about who did it... but who did it best.</p><img src="https://cdn-images-2.medium.com/max/2000/1*wvyzzp3vbinni4EJkqLRrw.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/we-built-an-app-in-12-days-and-its-up-and-running-in-the-ap/index.html</link>
+            <guid isPermaLink="false">37d22095-129f-41d0-b400-cb2b1ea4cf06</guid>
+            <pubDate>Mon, 29 Feb 2016 10:39:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dharmesh Shah: Why Company Culture is Crucial [Entire Talk] | Stanford eCorner]]></title>
@@ -68,13 +75,6 @@
             <link>http://designmind.frogdesign.stfi.re/?sf=jbxpyx</link>
             <guid isPermaLink="false">deeb15f5-5950-4a9f-8813-fe43e6b3233e</guid>
             <pubDate>Sun, 21 Feb 2016 15:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bolt Blog]]></title>
-            <description><![CDATA[<article><h1>Bolt Blog</h1><p>Venture Capital Designed for Hardware</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a967c8500095ebed3c9bfc18d33358df8866288.jpg"></article>]]></description>
-            <link>http://blog.bolt.stfi.re/?sf=ogwlvy</link>
-            <guid isPermaLink="false">ea0369f5-a550-4642-b595-a6e14de9f0ec</guid>
-            <pubDate>Sun, 21 Feb 2016 15:32:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
