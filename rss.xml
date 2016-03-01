@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 10:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 16:52:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015]]></title>
+            <description><![CDATA[<article><h1>Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015</h1><p>How do you practice service design when you don't have the budget, time, or scope to impact the entire service? On my design team at American Express we've found crafty ways to get service design into every project - no matter how big or small.</p></article>]]></description>
+            <link>https://vimeo.com/145936848</link>
+            <guid isPermaLink="false">dde6f099-32d5-4671-a867-7d7aaa4c5cde</guid>
+            <pubDate>Tue, 01 Mar 2016 16:51:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[We built an app in 12 days and it's up and running in the AppStore]]></title>
-            <description><![CDATA[<article><h1>We built an app in 12 days and it's up and running in the AppStore</h1><p>We built an app in 12 days and it's up and running in the AppStore 80% of us forget to drink enough water at regular intervals. You would say there are so many apps that do this already! True, but it's not about who did it... but who did it best.</p><img src="https://cdn-images-2.medium.com/max/2000/1*wvyzzp3vbinni4EJkqLRrw.jpeg"></article>]]></description>
+            <description><![CDATA[<article><h1>We built an app in 12 days and it's up and running in the AppStore</h1><p>We built an app in 12 days and it's up and running in the AppStore 80% of us forget to drink enough water at regular intervals. You would say there are so many apps that do this already! True, but it's not about who did it... but who did it best.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ba36c5d0bbb8e9e0191e951b129e0ad67661b07.jpg"></article>]]></description>
             <link>https://thegrid.ai/service-design-by-labshare/we-built-an-app-in-12-days-and-its-up-and-running-in-the-ap/index.html</link>
             <guid isPermaLink="false">37d22095-129f-41d0-b400-cb2b1ea4cf06</guid>
             <pubDate>Mon, 29 Feb 2016 10:39:58 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.slideshare.stfi.re/sachmonkey/the-art-of-product-management-58156816?sf=ewzrwx</link>
             <guid isPermaLink="false">cf8356f3-a4e3-436f-8d12-786ecb891b85</guid>
             <pubDate>Sun, 21 Feb 2016 15:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[frog]]></title>
-            <description><![CDATA[<article><h1>frog</h1><p>Written by frog designers, technologists, and strategists, design mind is a digital platform and print magazine providing the design and innovation community with perspectives on industry trends, emerging technologies, and global consumer culture. © 2016 frog design. All rights reserved. Unauthorized usage of this content prohibited.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8e6f0a8cf88f4c99616850d79ed75f30825cf06.png"></article>]]></description>
-            <link>http://designmind.frogdesign.stfi.re/?sf=jbxpyx</link>
-            <guid isPermaLink="false">deeb15f5-5950-4a9f-8813-fe43e6b3233e</guid>
-            <pubDate>Sun, 21 Feb 2016 15:33:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
