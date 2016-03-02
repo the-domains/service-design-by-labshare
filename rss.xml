@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 15:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 15:40:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interview with the founder of Serenity Andrew Lentz: when creating a product think about your customer first]]></title>
+            <description><![CDATA[<article><h1>Interview with the founder of Serenity Andrew Lentz: when creating a product think about your customer first</h1><p>New technologies are supposed to make our lives better by solving our problems (or creating something we never knew we wanted *caugh*iPhone*caugh*). This is certainly true about this inconspicuous little gadget Serenity. You attach it to your bag, set a code and then it will keep it safe, so you can relax and enjoy instead of guarding your belongings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1aa8d802e02794e1a9eb623ea5e340ae2b29386c.jpg"></article>]]></description>
+            <link>http://blog.hwtrek.stfi.re/interview-with-the-founder-of-serenity-andrew-lentz-when-creating-a-product-think-about-your-customer-first/?sf=avkajp</link>
+            <guid isPermaLink="false">4041a94a-58b7-4b79-82d7-888a56d49d3f</guid>
+            <pubDate>Wed, 02 Mar 2016 15:36:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inside Design: Capital One - InVision Blog]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.cmodigitalforum.stfi.re/2016/01/08/need-know-customer-journey-mapping/?sf=rpggap</link>
             <guid isPermaLink="false">1eb74f58-219d-49b3-8fe3-8fb708ed8fe6</guid>
             <pubDate>Wed, 24 Feb 2016 12:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strategyzer & Medtronic: Redefining Customer-Centric Innovation]]></title>
-            <description><![CDATA[<article><h1>Strategyzer & Medtronic: Redefining Customer-Centric Innovation</h1><p>Medtronic is the world's largest stand alone medical technology development company. See how a team inside the organization transformed its habits to focus squarely on the customer. We'll explain how Strategyzer's tools, methodologies, and training helped to set Medtronic's Spine & Biologicals division up for success.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7282db6eb3295f0d47e1ff4eaf65cb03cc687916.jpg"></article>]]></description>
-            <link>http://blog.strategyzer.stfi.re/posts/2016/2/12/strategyzer-medtronic-redefining-customer-centric-innovation?sf=pbdlzv</link>
-            <guid isPermaLink="false">ec1aec56-1e16-4a50-bc48-0ad2247c5b24</guid>
-            <pubDate>Sun, 21 Feb 2016 15:33:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
