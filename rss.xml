@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 15:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 15:41:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Design]]></title>
+            <description><![CDATA[<article><h1>Google Design</h1><p>At Google we say, "Focus on the user and all else will follow." With this in mind, we seek to design experiences that inspire and enlighten our users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14883d625064696ebe45d3bc2cd1ee3fc03a37b0.png"></article>]]></description>
+            <link>https://design.google.com/</link>
+            <guid isPermaLink="false">ed678b77-3cd5-40eb-8973-25c64f0236a9</guid>
+            <pubDate>Wed, 02 Mar 2016 15:36:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interview with the founder of Serenity Andrew Lentz: when creating a product think about your customer first]]></title>
@@ -68,13 +75,6 @@
             <link>http://ecorner.stanford.edu/videos/4026/Why-Company-Culture-is-Crucial-Entire-Talk</link>
             <guid isPermaLink="false">e2dc3203-ccd1-4295-a7d9-91979fad5e5d</guid>
             <pubDate>Sun, 28 Feb 2016 20:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All You Need To Know About Customer Journey Mapping - CMO Digital Forum]]></title>
-            <description><![CDATA[<article><h1>All You Need To Know About Customer Journey Mapping - CMO Digital Forum</h1><p>"Stories have defined our world. They have been with us since the dawn of communication, from cave walls to the tall tales recounted around fires. They have continued to evolve, with their purpose remaining the same: to entertain, to share common experiences, to teach and to pass on traditions."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/422c57fc352e1f492387fcbc42fa2949f44c162f.jpg"></article>]]></description>
-            <link>http://www.cmodigitalforum.stfi.re/2016/01/08/need-know-customer-journey-mapping/?sf=rpggap</link>
-            <guid isPermaLink="false">1eb74f58-219d-49b3-8fe3-8fb708ed8fe6</guid>
-            <pubDate>Wed, 24 Feb 2016 12:31:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
