@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 16:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 15:37:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Inside Design: Capital One - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>Inside Design: Capital One - InVision Blog</h1><p>Capital One isn't just a bank-it's an organization where, thanks to founder Rich Fairbank's belief that design will differentiate the company in the space, there's some seriously cutting-edge design happening. For that reason, we couldn't be more proud to have Capital One as part of the InVision community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef14b8b4f0fc58ae51902366b6072cf09d0a9e58.jpg"></article>]]></description>
+            <link>http://blog.invisionapp.stfi.re/inside-design-capital-one/</link>
+            <guid isPermaLink="false">90cd4180-ccc8-4d9a-b1e4-f711ebfa0438</guid>
+            <pubDate>Wed, 02 Mar 2016 15:35:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015]]></title>
-            <description><![CDATA[<article><h1>Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015</h1><p>How do you practice service design when you don't have the budget, time, or scope to impact the entire service? On my design team at American Express we've found crafty ways to get service design into every project - no matter how big or small.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015</h1><p>How do you practice service design when you don't have the budget, time, or scope to impact the entire service? On my design team at American Express we've found crafty ways to get service design into every project - no matter how big or small.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9008bb1ef021cf6c5a80a4d20ce8b577db0daee.jpg"></article>]]></description>
             <link>https://vimeo.com/145936848</link>
             <guid isPermaLink="false">dde6f099-32d5-4671-a867-7d7aaa4c5cde</guid>
             <pubDate>Tue, 01 Mar 2016 16:51:38 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blog.strategyzer.stfi.re/posts/2016/2/12/strategyzer-medtronic-redefining-customer-centric-innovation?sf=pbdlzv</link>
             <guid isPermaLink="false">ec1aec56-1e16-4a50-bc48-0ad2247c5b24</guid>
             <pubDate>Sun, 21 Feb 2016 15:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art of Product Management]]></title>
-            <description><![CDATA[<article><h1>The Art of Product Management</h1><p>Product managers drive the vision, strategy, design, and execution of their product. In this presentation I share my lessons learned on the art behind each of ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6c4820a7349dc15f678ac37bbd7d1023eecc21.jpg"></article>]]></description>
-            <link>http://www.slideshare.stfi.re/sachmonkey/the-art-of-product-management-58156816?sf=ewzrwx</link>
-            <guid isPermaLink="false">cf8356f3-a4e3-436f-8d12-786ecb891b85</guid>
-            <pubDate>Sun, 21 Feb 2016 15:33:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
