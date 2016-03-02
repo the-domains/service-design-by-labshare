@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 15:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 15:43:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How I built a hoverboard company and then blew it up]]></title>
+            <description><![CDATA[<article><h1>How I built a hoverboard company and then blew it up</h1><p>I was first introduced to Hoverboards while watching Casey Neistat's daily vlogs on YouTube. I thought, "Wow. That's pretty cool!" and started searching online to purchase one myself. When I looked at the cost of an IOHawk at $1,800 or the Phunkeeduck at $1,500, I thought there had to be a cheaper way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6dff19fb64eb07c3f2e3bae207b3005fdaec3e5.jpg"></article>]]></description>
+            <link>http://techcrunch.stfi.re/2016/03/01/how-i-built-a-hoverboard-company-and-then-blew-it-up/?ncid=rss&amp;sf=kbgnkz</link>
+            <guid isPermaLink="false">14386952-a319-4f83-a89a-932d0ada8177</guid>
+            <pubDate>Wed, 02 Mar 2016 15:37:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google Design]]></title>
-            <description><![CDATA[<article><h1>Google Design</h1><p>At Google we say, "Focus on the user and all else will follow." With this in mind, we seek to design experiences that inspire and enlighten our users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14883d625064696ebe45d3bc2cd1ee3fc03a37b0.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Google Design</h1><p>At Google we say, "Focus on the user and all else will follow." With this in mind, we seek to design experiences that inspire and enlighten our users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1952aba915936fd2e9c11556893f81e6e438a5f6.png"></article>]]></description>
             <link>https://design.google.com/</link>
             <guid isPermaLink="false">ed678b77-3cd5-40eb-8973-25c64f0236a9</guid>
             <pubDate>Wed, 02 Mar 2016 15:36:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/service-design-by-labshare/we-built-an-app-in-12-days-and-its-up-and-running-in-the-ap/index.html</link>
             <guid isPermaLink="false">37d22095-129f-41d0-b400-cb2b1ea4cf06</guid>
             <pubDate>Mon, 29 Feb 2016 10:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dharmesh Shah: Why Company Culture is Crucial [Entire Talk] | Stanford eCorner]]></title>
-            <description><![CDATA[<article><h1>Dharmesh Shah: Why Company Culture is Crucial [Entire Talk] | Stanford eCorner</h1><p>Dharmesh Shah, co-founder and CTO at the marketing and sales software firm HubSpot, distills his 128-slide presentation on company culture down to its essence, describing it as a business's "operating system" that lets people do their best work. Shah says entrepreneurs must create a company culture they love, because one will eventually emerge no matter what.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90c928319c9b6c950d63dc7d4ef554bc97997fe2.html"></article>]]></description>
-            <link>http://ecorner.stanford.edu/videos/4026/Why-Company-Culture-is-Crucial-Entire-Talk</link>
-            <guid isPermaLink="false">e2dc3203-ccd1-4295-a7d9-91979fad5e5d</guid>
-            <pubDate>Sun, 28 Feb 2016 20:50:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
