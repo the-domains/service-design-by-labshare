@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 19:42:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design iOS 9 apps with Sketch and Swift 2]]></title>
+            <description><![CDATA[<article><h1>Design iOS 9 apps with Sketch and Swift 2</h1><p>Design iOS apps with Swift. Build a news reader app from Sketch to the App Store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/491da7038d5519561b5c75315e86b4bca1c6adbc.png"></article>]]></description>
+            <link>https://designcode.io/iosdesign-icons</link>
+            <guid isPermaLink="false">f823ed53-93f2-4d3c-84ca-b0bf15e83837</guid>
+            <pubDate>Mon, 07 Mar 2016 19:41:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building a Compelling Value Proposition]]></title>
@@ -68,13 +75,6 @@
             <link>https://design.google.com/</link>
             <guid isPermaLink="false">ed678b77-3cd5-40eb-8973-25c64f0236a9</guid>
             <pubDate>Wed, 02 Mar 2016 15:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview with the founder of Serenity Andrew Lentz: when creating a product think about your customer first]]></title>
-            <description><![CDATA[<article><h1>Interview with the founder of Serenity Andrew Lentz: when creating a product think about your customer first</h1><p>New technologies are supposed to make our lives better by solving our problems (or creating something we never knew we wanted *caugh*iPhone*caugh*). This is certainly true about this inconspicuous little gadget Serenity. You attach it to your bag, set a code and then it will keep it safe, so you can relax and enjoy instead of guarding your belongings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1aa8d802e02794e1a9eb623ea5e340ae2b29386c.jpg"></article>]]></description>
-            <link>http://blog.hwtrek.stfi.re/interview-with-the-founder-of-serenity-andrew-lentz-when-creating-a-product-think-about-your-customer-first/?sf=avkajp</link>
-            <guid isPermaLink="false">4041a94a-58b7-4b79-82d7-888a56d49d3f</guid>
-            <pubDate>Wed, 02 Mar 2016 15:36:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
