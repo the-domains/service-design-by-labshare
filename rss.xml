@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 15:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 19:40:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 Design Tips to Radically Transform Your Emails]]></title>
+            <description><![CDATA[<article><h1>6 Design Tips to Radically Transform Your Emails</h1><p>"Beauty is in the eye of the beholder," as some people would say. But often, we can all agree on something that isn't beautiful. For example, the zombies from Walking Dead, that strange conjoined twin thing from Total Recall, and a really poorly designed email.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb75fa6a1b80a6083df24598d3a6a752ed610406.jpg"></article>]]></description>
+            <link>http://creativemarket.stfi.re/blog/2016/03/07/6-design-tips-to-radically-transform-your-emails?sf=jgjwno</link>
+            <guid isPermaLink="false">1f441ce6-ee92-4c89-acb6-bcad4545fd5a</guid>
+            <pubDate>Mon, 07 Mar 2016 19:39:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How I built a hoverboard company and then blew it up]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/145936848</link>
             <guid isPermaLink="false">dde6f099-32d5-4671-a867-7d7aaa4c5cde</guid>
             <pubDate>Tue, 01 Mar 2016 16:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We built an app in 12 days and it's up and running in the AppStore]]></title>
-            <description><![CDATA[<article><h1>We built an app in 12 days and it's up and running in the AppStore</h1><p>We built an app in 12 days and it's up and running in the AppStore 80% of us forget to drink enough water at regular intervals. You would say there are so many apps that do this already! True, but it's not about who did it... but who did it best.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ba36c5d0bbb8e9e0191e951b129e0ad67661b07.jpg"></article>]]></description>
-            <link>https://thegrid.ai/service-design-by-labshare/we-built-an-app-in-12-days-and-its-up-and-running-in-the-ap/index.html</link>
-            <guid isPermaLink="false">37d22095-129f-41d0-b400-cb2b1ea4cf06</guid>
-            <pubDate>Mon, 29 Feb 2016 10:39:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
