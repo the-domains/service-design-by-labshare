@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 19:43:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Manufacture Desire - Psychology of Stuff]]></title>
+            <description><![CDATA[<article><h1>How to Manufacture Desire - Psychology of Stuff</h1><p>Type the name of almost any successful consumer web company into your search bar and add the word "addict" after it. Go ahead, I'll wait. Try "Facebook addict" or "Instagram addict" or even "Pinterest addict" and you'll soon get a slew of results from hooked users and observers deriding the narcotic-like properties of these web sites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/622ef78bcf14cf0cc0fa00ac4d18f7516744eb63.png"></article>]]></description>
+            <link>http://medium.stfi.re/behavior-design/how-to-manufacture-desire-3011c82a2b28?sf=dygkrb#.nl56vqraz</link>
+            <guid isPermaLink="false">ac25696d-781a-4f95-93c8-5976c109b696</guid>
+            <pubDate>Mon, 07 Mar 2016 19:41:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Design iOS 9 apps with Sketch and Swift 2]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.stfi.re/2016/03/01/how-i-built-a-hoverboard-company-and-then-blew-it-up/?ncid=rss&amp;sf=kbgnkz</link>
             <guid isPermaLink="false">14386952-a319-4f83-a89a-932d0ada8177</guid>
             <pubDate>Wed, 02 Mar 2016 15:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Design]]></title>
-            <description><![CDATA[<article><h1>Google Design</h1><p>At Google we say, "Focus on the user and all else will follow." With this in mind, we seek to design experiences that inspire and enlighten our users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1952aba915936fd2e9c11556893f81e6e438a5f6.png"></article>]]></description>
-            <link>https://design.google.com/</link>
-            <guid isPermaLink="false">ed678b77-3cd5-40eb-8973-25c64f0236a9</guid>
-            <pubDate>Wed, 02 Mar 2016 15:36:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
