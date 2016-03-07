@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 19:43:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Design Thinking Transformed Airbnb from a Failing Startup to a Billion Dollar Business]]></title>
+            <description><![CDATA[<article><h1>How Design Thinking Transformed Airbnb from a Failing Startup to a Billion Dollar Business</h1><p>In 2009, Airbnb was close to going bust. Like so many startups, they had launched but barely anyone noticed. The company's revenue was flatlined at $200 per week. Split between three young founders living in San Francisco, this meant near indefinite losses on zero growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/586468b8abd76868d1c83119f1151d404d80a909.jpg"></article>]]></description>
+            <link>http://firstround.stfi.re/review/How-design-thinking-transformed-Airbnb-from-failing-startup-to-billion-dollar-business/?sf=llyryn</link>
+            <guid isPermaLink="false">02099c5c-6be4-44ff-92f2-7f750a7bc352</guid>
+            <pubDate>Mon, 07 Mar 2016 19:41:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Manufacture Desire - Psychology of Stuff]]></title>
@@ -68,13 +75,6 @@
             <link>http://creativemarket.stfi.re/blog/2016/03/07/6-design-tips-to-radically-transform-your-emails?sf=jgjwno</link>
             <guid isPermaLink="false">1f441ce6-ee92-4c89-acb6-bcad4545fd5a</guid>
             <pubDate>Mon, 07 Mar 2016 19:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I built a hoverboard company and then blew it up]]></title>
-            <description><![CDATA[<article><h1>How I built a hoverboard company and then blew it up</h1><p>I was first introduced to Hoverboards while watching Casey Neistat's daily vlogs on YouTube. I thought, "Wow. That's pretty cool!" and started searching online to purchase one myself. When I looked at the cost of an IOHawk at $1,800 or the Phunkeeduck at $1,500, I thought there had to be a cheaper way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6dff19fb64eb07c3f2e3bae207b3005fdaec3e5.jpg"></article>]]></description>
-            <link>http://techcrunch.stfi.re/2016/03/01/how-i-built-a-hoverboard-company-and-then-blew-it-up/?ncid=rss&amp;sf=kbgnkz</link>
-            <guid isPermaLink="false">14386952-a319-4f83-a89a-932d0ada8177</guid>
-            <pubDate>Wed, 02 Mar 2016 15:37:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
