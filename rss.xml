@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 19:41:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Compelling Value Proposition]]></title>
+            <description><![CDATA[<article><h1>Building a Compelling Value Proposition</h1><p>A fellow inventor, Charles Kettering, once said, "A problem well stated is a problem half solved" And yet many entrepreneurs make the mistake of diving headlong into the solution before really understanding the problem they're looking to solve. I'll add to this: If you're not solving a valuable problem, you're unlikely to build any great value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5b4503b85aab92d32704ca5326267bb1569221c.png"></article>]]></description>
+            <link>http://mjskok.stfi.re/resource/building-compelling-value-proposition?sf=rwjzzb</link>
+            <guid isPermaLink="false">2da8a3b5-ded0-4696-8b26-7181f09dc925</guid>
+            <pubDate>Mon, 07 Mar 2016 19:40:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Best UX Designer Tools&Resources Collection]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.hwtrek.stfi.re/interview-with-the-founder-of-serenity-andrew-lentz-when-creating-a-product-think-about-your-customer-first/?sf=avkajp</link>
             <guid isPermaLink="false">4041a94a-58b7-4b79-82d7-888a56d49d3f</guid>
             <pubDate>Wed, 02 Mar 2016 15:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Design: Capital One - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>Inside Design: Capital One - InVision Blog</h1><p>Capital One isn't just a bank-it's an organization where, thanks to founder Rich Fairbank's belief that design will differentiate the company in the space, there's some seriously cutting-edge design happening. For that reason, we couldn't be more proud to have Capital One as part of the InVision community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef14b8b4f0fc58ae51902366b6072cf09d0a9e58.jpg"></article>]]></description>
-            <link>http://blog.invisionapp.stfi.re/inside-design-capital-one/</link>
-            <guid isPermaLink="false">90cd4180-ccc8-4d9a-b1e4-f711ebfa0438</guid>
-            <pubDate>Wed, 02 Mar 2016 15:35:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
