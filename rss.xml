@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 08:11:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Algolia Community]]></title>
+            <description><![CDATA[<article><h1>Algolia Community</h1><p>Deliver fast and relevant search results with the Algolia extension for Magento.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/accccc8ad1f8cf712c03cc294ec3cc05f34a96ff.png"></article>]]></description>
+            <link>https://community.algolia.com/?ref=producthunt</link>
+            <guid isPermaLink="false">1048594e-4f78-4826-85eb-d6e29cc3c70e</guid>
+            <pubDate>Wed, 09 Mar 2016 08:09:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Design Thinking Transformed Airbnb from a Failing Startup to a Billion Dollar Business]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Best UX Designer Tools&Resources Collection</h1><p>via UX Alive, UX Conference & Workshops in Istanbul 125+ resources and tools are listed in 5 categories: UX Research, UX/UI Design, Optimization, UX Career, UX Training, UX Events & UX Books Information Architecture Online card sorting tool preferred by information architects. Usability testing tool you can use to test your IA without visual distractions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b71c83f5cff02ee6b653d783549601e05d819fc4.jpg"></article>]]></description>
             <link>http://medium.stfi.re/@UXAliveTurkey/the-best-ux-designer-tools-resources-collection-24bf115d17bc?sf=krdpao#.depml69p2</link>
             <guid isPermaLink="false">7148f40f-0a5e-409f-8663-775d362b12b4</guid>
-            <pubDate>Mon, 07 Mar 2016 19:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Design Tips to Radically Transform Your Emails]]></title>
-            <description><![CDATA[<article><h1>6 Design Tips to Radically Transform Your Emails</h1><p>"Beauty is in the eye of the beholder," as some people would say. But often, we can all agree on something that isn't beautiful. For example, the zombies from Walking Dead, that strange conjoined twin thing from Total Recall, and a really poorly designed email.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb75fa6a1b80a6083df24598d3a6a752ed610406.jpg"></article>]]></description>
-            <link>http://creativemarket.stfi.re/blog/2016/03/07/6-design-tips-to-radically-transform-your-emails?sf=jgjwno</link>
-            <guid isPermaLink="false">1f441ce6-ee92-4c89-acb6-bcad4545fd5a</guid>
             <pubDate>Mon, 07 Mar 2016 19:39:26 GMT</pubDate>
         </item>
     </channel>
