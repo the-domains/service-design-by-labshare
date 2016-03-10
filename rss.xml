@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 08:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 17:02:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The difference between a journey map and a service blueprint - Practical Service Design]]></title>
+            <description><![CDATA[<article><h1>The difference between a journey map and a service blueprint - Practical Service Design</h1><p>Co-authored by Megan Erin Miller and Erik Flowers of www.PracticalServiceDesign.com Everything that happens in our lives is a type of journey. It might be a journey that spans a few minutes, a few years, or an entire lifetime. It could be going to college, the birth of your first child, or a memorable vacation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74b01b921997b1ff9a2906faf885269192373b0e.jpg"></article>]]></description>
+            <link>http://medium.stfi.re/practical-service-design/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c?sf=negnnd#.ycu80hcod</link>
+            <guid isPermaLink="false">6848690e-c2e3-4539-93da-9a4020c1ba03</guid>
+            <pubDate>Thu, 10 Mar 2016 17:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algolia Community]]></title>
@@ -68,13 +75,6 @@
             <link>http://mjskok.stfi.re/resource/building-compelling-value-proposition?sf=rwjzzb</link>
             <guid isPermaLink="false">2da8a3b5-ded0-4696-8b26-7181f09dc925</guid>
             <pubDate>Mon, 07 Mar 2016 19:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best UX Designer Tools&Resources Collection]]></title>
-            <description><![CDATA[<article><h1>The Best UX Designer Tools&Resources Collection</h1><p>via UX Alive, UX Conference & Workshops in Istanbul 125+ resources and tools are listed in 5 categories: UX Research, UX/UI Design, Optimization, UX Career, UX Training, UX Events & UX Books Information Architecture Online card sorting tool preferred by information architects. Usability testing tool you can use to test your IA without visual distractions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b71c83f5cff02ee6b653d783549601e05d819fc4.jpg"></article>]]></description>
-            <link>http://medium.stfi.re/@UXAliveTurkey/the-best-ux-designer-tools-resources-collection-24bf115d17bc?sf=krdpao#.depml69p2</link>
-            <guid isPermaLink="false">7148f40f-0a5e-409f-8663-775d362b12b4</guid>
-            <pubDate>Mon, 07 Mar 2016 19:39:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
