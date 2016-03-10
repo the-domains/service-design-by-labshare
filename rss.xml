@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 17:02:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UI Interactions of the week #15 - Muzli -Design Inspiration]]></title>
+            <description><![CDATA[<article><h1>UI Interactions of the week #15 - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="http://cdn-images-1.medium.com/max/800/1*SjIZ9pg2Fe72VDdSYJtC9w.jpeg"></article>]]></description>
+            <link>http://medium.stfi.re/muzli-design-inspiration/ui-interactions-of-the-week-15-e9415fc09369?sf=neggnj#.wffwls2y9</link>
+            <guid isPermaLink="false">bda86c97-1dae-4e62-8a88-2957fb8e02fc</guid>
+            <pubDate>Thu, 10 Mar 2016 17:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The difference between a journey map and a service blueprint - Practical Service Design]]></title>
@@ -68,13 +75,6 @@
             <link>https://designcode.io/iosdesign-icons</link>
             <guid isPermaLink="false">f823ed53-93f2-4d3c-84ca-b0bf15e83837</guid>
             <pubDate>Mon, 07 Mar 2016 19:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Compelling Value Proposition]]></title>
-            <description><![CDATA[<article><h1>Building a Compelling Value Proposition</h1><p>A fellow inventor, Charles Kettering, once said, "A problem well stated is a problem half solved" And yet many entrepreneurs make the mistake of diving headlong into the solution before really understanding the problem they're looking to solve. I'll add to this: If you're not solving a valuable problem, you're unlikely to build any great value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5b4503b85aab92d32704ca5326267bb1569221c.png"></article>]]></description>
-            <link>http://mjskok.stfi.re/resource/building-compelling-value-proposition?sf=rwjzzb</link>
-            <guid isPermaLink="false">2da8a3b5-ded0-4696-8b26-7181f09dc925</guid>
-            <pubDate>Mon, 07 Mar 2016 19:40:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
