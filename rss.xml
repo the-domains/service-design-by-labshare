@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 10:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 10:38:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Design 101 | A free Webflow ebook]]></title>
+            <description><![CDATA[<article><h1>Web Design 101 | A free Webflow ebook</h1><p>Once upon a time, the web was the sole domain of experts. The people who bought computers back when getting your computer to do something meant writing the program yourself. The people who still look at an app and see the code that makes it work, instead of the beautiful skin a designer laid over it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5121f0a05514003871bcac160f0f8af1fe1e1a10.jpg"></article>]]></description>
+            <link>http://ebooks.webflow.stfi.re/ebook/web-design-101?sf=rwyvyp</link>
+            <guid isPermaLink="false">7bd30f53-c336-44bc-9766-9239c032f632</guid>
+            <pubDate>Sun, 13 Mar 2016 10:37:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Guide to UX Design Process & Documentation (Part 2)]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How Design Thinking Transformed Airbnb from a Failing Startup to a Billion Dollar Business</h1><p>In 2009, Airbnb was close to going bust. Like so many startups, they had launched but barely anyone noticed. The company's revenue was flatlined at $200 per week. Split between three young founders living in San Francisco, this meant near indefinite losses on zero growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/586468b8abd76868d1c83119f1151d404d80a909.jpg"></article>]]></description>
             <link>http://firstround.stfi.re/review/How-design-thinking-transformed-Airbnb-from-failing-startup-to-billion-dollar-business/?sf=llyryn</link>
             <guid isPermaLink="false">02099c5c-6be4-44ff-92f2-7f750a7bc352</guid>
-            <pubDate>Mon, 07 Mar 2016 19:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Manufacture Desire - Psychology of Stuff]]></title>
-            <description><![CDATA[<article><h1>How to Manufacture Desire - Psychology of Stuff</h1><p>Type the name of almost any successful consumer web company into your search bar and add the word "addict" after it. Go ahead, I'll wait. Try "Facebook addict" or "Instagram addict" or even "Pinterest addict" and you'll soon get a slew of results from hooked users and observers deriding the narcotic-like properties of these web sites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/622ef78bcf14cf0cc0fa00ac4d18f7516744eb63.png"></article>]]></description>
-            <link>http://medium.stfi.re/behavior-design/how-to-manufacture-desire-3011c82a2b28?sf=dygkrb#.nl56vqraz</link>
-            <guid isPermaLink="false">ac25696d-781a-4f95-93c8-5976c109b696</guid>
             <pubDate>Mon, 07 Mar 2016 19:41:38 GMT</pubDate>
         </item>
     </channel>
