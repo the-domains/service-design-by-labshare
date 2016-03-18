@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 10:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 09:55:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Airbnb designs for trust]]></title>
+            <description><![CDATA[<article><h1>How Airbnb designs for trust</h1><p>Joe Gebbia, the co-founder of Airbnb, bet his whole company on the belief that people can trust each other enough to stay in one another's homes. How did he overcome the stranger-danger bias? Through good design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33f158c7ac76ee55e7263834379640accf070b64.jpg"></article>]]></description>
+            <link>http://www.ted.stfi.re/talks/joe_gebbia_how_airbnb_designs_for_trust?sf=ybzbel</link>
+            <guid isPermaLink="false">5258e565-0899-431b-b2c8-2802a8d8b4ad</guid>
+            <pubDate>Fri, 18 Mar 2016 09:54:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web Design 101 | A free Webflow ebook]]></title>
@@ -68,13 +75,6 @@
             <link>https://community.algolia.com/?ref=producthunt</link>
             <guid isPermaLink="false">1048594e-4f78-4826-85eb-d6e29cc3c70e</guid>
             <pubDate>Wed, 09 Mar 2016 08:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Design Thinking Transformed Airbnb from a Failing Startup to a Billion Dollar Business]]></title>
-            <description><![CDATA[<article><h1>How Design Thinking Transformed Airbnb from a Failing Startup to a Billion Dollar Business</h1><p>In 2009, Airbnb was close to going bust. Like so many startups, they had launched but barely anyone noticed. The company's revenue was flatlined at $200 per week. Split between three young founders living in San Francisco, this meant near indefinite losses on zero growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/586468b8abd76868d1c83119f1151d404d80a909.jpg"></article>]]></description>
-            <link>http://firstround.stfi.re/review/How-design-thinking-transformed-Airbnb-from-failing-startup-to-billion-dollar-business/?sf=llyryn</link>
-            <guid isPermaLink="false">02099c5c-6be4-44ff-92f2-7f750a7bc352</guid>
-            <pubDate>Mon, 07 Mar 2016 19:41:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
