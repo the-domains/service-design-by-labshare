@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 21:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 13:53:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elegant UI work by Samson Vowles]]></title>
+            <description><![CDATA[<article><h1>Elegant UI work by Samson Vowles</h1><p>Samson Vowles is a visual and interaction designer from Munich, Germany.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee974c57c9e57f1e5e7860055b0f54c1b8d75d6e.png"></article>]]></description>
+            <link>http://abduzeedo.com/elegant-ui-work-samson-vowles?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+abduzeedo+%28Abduzeedo+Feed%29</link>
+            <guid isPermaLink="false">42f3ce5d-23f2-462e-84d9-a461d2521513</guid>
+            <pubDate>Fri, 25 Mar 2016 13:53:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is service design thinking]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.ted.stfi.re/talks/joe_gebbia_how_airbnb_designs_for_trust?sf=ybzbel</link>
             <guid isPermaLink="false">5258e565-0899-431b-b2c8-2802a8d8b4ad</guid>
             <pubDate>Fri, 18 Mar 2016 09:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web Design 101 | A free Webflow ebook]]></title>
-            <description><![CDATA[<article><h1>Web Design 101 | A free Webflow ebook</h1><p>Once upon a time, the web was the sole domain of experts. The people who bought computers back when getting your computer to do something meant writing the program yourself. The people who still look at an app and see the code that makes it work, instead of the beautiful skin a designer laid over it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5121f0a05514003871bcac160f0f8af1fe1e1a10.jpg"></article>]]></description>
-            <link>http://ebooks.webflow.stfi.re/ebook/web-design-101?sf=rwyvyp</link>
-            <guid isPermaLink="false">7bd30f53-c336-44bc-9766-9239c032f632</guid>
-            <pubDate>Sun, 13 Mar 2016 10:37:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
