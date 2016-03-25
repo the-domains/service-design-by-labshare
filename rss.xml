@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 13:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 13:54:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UI Inspiration: Product One Pager]]></title>
+            <description><![CDATA[<article><h1>UI Inspiration: Product One Pager</h1><p>Following from last week's Stores Inspiration, I thought it would be great to share more in-depth UI design by putting together this collection of</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16e333048e89ea6f1cc9c168f1b096d75be5779e.jpg"></article>]]></description>
+            <link>http://abduzeedo.stfi.re/ui-inspiration-product-one-pager?sf=wrjaek</link>
+            <guid isPermaLink="false">de583fc3-d106-4a92-bf01-c28b97fa55f9</guid>
+            <pubDate>Fri, 25 Mar 2016 13:53:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elegant UI work by Samson Vowles]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.invisionapp.stfi.re/checklist-for-design-handoffs/</link>
             <guid isPermaLink="false">6937eea2-06da-40b0-82b3-97ffcd71511d</guid>
             <pubDate>Tue, 22 Mar 2016 13:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Airbnb designs for trust]]></title>
-            <description><![CDATA[<article><h1>How Airbnb designs for trust</h1><p>Joe Gebbia, the co-founder of Airbnb, bet his whole company on the belief that people can trust each other enough to stay in one another's homes. How did he overcome the stranger-danger bias? Through good design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33f158c7ac76ee55e7263834379640accf070b64.jpg"></article>]]></description>
-            <link>http://www.ted.stfi.re/talks/joe_gebbia_how_airbnb_designs_for_trust?sf=ybzbel</link>
-            <guid isPermaLink="false">5258e565-0899-431b-b2c8-2802a8d8b4ad</guid>
-            <pubDate>Fri, 18 Mar 2016 09:54:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
