@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 13:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 17:03:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prototyping tools of tomorrow]]></title>
+            <description><![CDATA[<article><h1>Prototyping tools of tomorrow</h1><p>Tools need to establish setups that commission designing with/for device characteristics and real data The ease of translation of the prototype into production code - Designers sweat the details to get the nuances right while prototyping as much as they do with their 'fit-and-finish' of the UI screens, it's their baby after all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92201e349bb4535b163dc8d20383f1db20c77337.jpg"></article>]]></description>
+            <link>http://medium.stfi.re/@91bilal/prototyping-tools-of-tomorrow-c14dd766fcc0?sf=glrjaa#.7k2hnh2vj</link>
+            <guid isPermaLink="false">77ec51c9-f497-4499-ae57-464bd4cfc5cd</guid>
+            <pubDate>Mon, 28 Mar 2016 17:02:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UI Inspiration: Product One Pager]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Improving UX with Pixar's 22 rules of storytelling - InVision Blog</h1><p>A few years ago, Emma Coats took to Twitter to share 22 rules she learned about storytelling during her time as a Pixar storyboard artist. The rules are "a mix of things learned from directors and coworkers at Pixar, listening to writers and directors talk about their craft, and via trial and error in the making of my own films," she later wrote in a blog post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec53b053e0e8f81166b362125fe8dd535c490027.jpg"></article>]]></description>
             <link>http://blog.invisionapp.stfi.re/improving-ux-with-pixars-storytelling-rules/</link>
             <guid isPermaLink="false">b9775ba0-2a8e-41b1-b547-5af0cddabdc4</guid>
-            <pubDate>Tue, 22 Mar 2016 13:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A simple checklist for successful design handoffs - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>A simple checklist for successful design handoffs - InVision Blog</h1><p>For designers, one of the most important things to understand is that design is only one step in the product development process. It doesn't matter how pixel-perfect your layouts are. If you can't empathize and communicate your vision to developers and QA engineers, the pixels won't come to life like you wanted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb7dee88a07ccc0c27dcd1b247bc68a873781510.jpg"></article>]]></description>
-            <link>http://blog.invisionapp.stfi.re/checklist-for-design-handoffs/</link>
-            <guid isPermaLink="false">6937eea2-06da-40b0-82b3-97ffcd71511d</guid>
             <pubDate>Tue, 22 Mar 2016 13:39:46 GMT</pubDate>
         </item>
     </channel>
