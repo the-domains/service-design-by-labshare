@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 17:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 13:20:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 Fascinating Examples of Bold Design Selected by Muzli]]></title>
+            <description><![CDATA[<article><h1>20 Fascinating Examples of Bold Design Selected by Muzli</h1><p>If you're subscribed to my list, you know that in the first email, I ask you what is your biggest struggle with design in business. A huge number of people reply to this email (and I respond to almost all of them). And it turns out that many readers seem to be struggling with finding great design inspiration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09c3db3bf127b18c8e4c40f70a682f3e290868d4.png"></article>]]></description>
+            <link>http://www.designforfounders.com/bold-design/</link>
+            <guid isPermaLink="false">da38c601-9f64-4bf7-bbef-070dcfa3e962</guid>
+            <pubDate>Tue, 29 Mar 2016 13:19:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prototyping tools of tomorrow]]></title>
@@ -68,13 +75,6 @@
             <link>http://issuu.stfi.re/lauramatagarcia/docs/thesis_wo_appendixes_lauramatag?sf=dljvww</link>
             <guid isPermaLink="false">50509d80-e0d3-4851-aeec-5cc755cbd402</guid>
             <pubDate>Thu, 24 Mar 2016 21:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Improving UX with Pixar's 22 rules of storytelling - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>Improving UX with Pixar's 22 rules of storytelling - InVision Blog</h1><p>A few years ago, Emma Coats took to Twitter to share 22 rules she learned about storytelling during her time as a Pixar storyboard artist. The rules are "a mix of things learned from directors and coworkers at Pixar, listening to writers and directors talk about their craft, and via trial and error in the making of my own films," she later wrote in a blog post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec53b053e0e8f81166b362125fe8dd535c490027.jpg"></article>]]></description>
-            <link>http://blog.invisionapp.stfi.re/improving-ux-with-pixars-storytelling-rules/</link>
-            <guid isPermaLink="false">b9775ba0-2a8e-41b1-b547-5af0cddabdc4</guid>
-            <pubDate>Tue, 22 Mar 2016 13:39:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
