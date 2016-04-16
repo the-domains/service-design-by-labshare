@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 07:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 19:55:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,6 +35,20 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Designing Data-Driven Interfaces - Truth Labs]]></title>
+            <description><![CDATA[<article><h1>Designing Data-Driven Interfaces - Truth Labs</h1><p>"Dashboard", "Big Data", "Data visualization", "Analytics" - there's been an explosion of people and companies looking to do interesting things with their data. I've been lucky to work on dozens of data-heavy interfaces throughout my career and I wanted to share some thoughts on how to arrive at a distinct and meaningful product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eb90076b7c74ffaa7e9de17f2d8e6fbb2716fdf.png"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/designing-data-driven-interfaces-truth-labs/index.html</link>
+            <guid isPermaLink="false">b94bb46b-77eb-4980-9545-2e693ac9594a</guid>
+            <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Re-thinking reading on the Web - Truth Labs]]></title>
+            <description><![CDATA[<article><h1>Re-thinking reading on the Web - Truth Labs</h1><p>A cinematic approach Rather than creating a series of interactive widgets embedded throughout the article, we decided to build an interactive narrative that flows alongside the copy. We used WebGL to build full 3D environments which gave us the flexibility to tell the story from a variety of perspectives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4e1180f9b7365321b6f20ebbce2558e4f0eeb6d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/re-thinking-reading-on-the-web-truth-labs/index.html</link>
+            <guid isPermaLink="false">e9191bbe-591f-4a8f-a689-84d62369d930</guid>
+            <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Designing complex products - Truth Labs]]></title>
             <description><![CDATA[<article><h1>Designing complex products - Truth Labs</h1><p>Thoughts on managing complexity After the overwhelmingly positive interest in my Designing Data-Driven Interfaces article, I decided to write about this related and equally important topic: managing complexity. You know that unsettling feeling when you're half way through a project and you're presenting design concepts? No major feedback, smiles across the table, heads nodding yes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0203da62e819e8051b7ef6ba95d8be299bc7e25.png"></article>]]></description>
             <link>http://medium.stfi.re/truth-labs/designing-complex-products-8f9289ab26c9?sf=jnpgxb#.mcksgtkb9</link>
@@ -61,20 +75,6 @@
             <link>http://www.appcues.stfi.re/blog/we-categorized-327-user-onboarding-experiences-into-9-ui-patterns/?sf=odwgzb</link>
             <guid isPermaLink="false">c5e6eada-618f-477b-b77d-4074b3ddac8a</guid>
             <pubDate>Wed, 06 Apr 2016 09:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Grow in 190 Markets: 4 Lessons from Airbnb]]></title>
-            <description><![CDATA[<article><h1>How to Grow in 190 Markets: 4 Lessons from Airbnb</h1><p>Few companies have had the kind of global success of Airbnb. Seven years ago, the company started in San Francisco, by allowing people to turn their spare bedrooms and homes into vacation rentals. Today, Airbnb has over 1,000,000 listings in 34,000 cities and 190 countries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/016d43965bfb77a1e8417b96d97248cb9b34da18.png"></article>]]></description>
-            <link>http://www.oneskyapp.stfi.re/blog/airbnb-global-growth/?sf=jnxblj</link>
-            <guid isPermaLink="false">4d31938a-f8e3-49c6-9950-4cb77982fb32</guid>
-            <pubDate>Wed, 06 Apr 2016 09:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 UX plays to start your design on good tracks - Prototyping: From UX to Front End]]></title>
-            <description><![CDATA[<article><h1>5 UX plays to start your design on good tracks - Prototyping: From UX to Front End</h1><p>When I start a new design (a full project or a feature) I turn off my computer. I make sure to delay the launch of a design software as much as I can. I need to make sure that I get the big picture of what I am working on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fe7d26bdcadf66768568cc6789f0e2642953ae6.jpg"></article>]]></description>
-            <link>http://blog.prototypr.stfi.re/5-ux-plays-to-start-your-design-on-good-tracks-45d00260909e?sf=ovbgpe#.n4c7ojf5w</link>
-            <guid isPermaLink="false">d61d5416-b50c-4a05-9caf-ce4d5017535c</guid>
-            <pubDate>Tue, 05 Apr 2016 07:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
