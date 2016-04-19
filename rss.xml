@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 12:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 12:02:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Designing complex products - Truth Labs]]></title>
+            <description><![CDATA[<article><h1>Designing complex products - Truth Labs</h1><p>Thoughts on managing complexity After the overwhelmingly positive interest in my Designing Data-Driven Interfaces article, I decided to write about this related and equally important topic: managing complexity. You know that unsettling feeling when you're half way through a project and you're presenting design concepts? No major feedback, smiles across the table, heads nodding yes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0203da62e819e8051b7ef6ba95d8be299bc7e25.png"></article>]]></description>
+            <link>http://medium.stfi.re/truth-labs/designing-complex-products-8f9289ab26c9?sf=ywzjpe#.87f0jxjy8</link>
+            <guid isPermaLink="false">65398605-d285-40cc-bd79-34920b8a3f45</guid>
+            <pubDate>Tue, 19 Apr 2016 12:01:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UI Interactions of the week #21 - Muzli -Design Inspiration]]></title>
@@ -68,13 +75,6 @@
             <link>http://medium.stfi.re/truth-labs/designing-complex-products-8f9289ab26c9?sf=jnpgxb#.mcksgtkb9</link>
             <guid isPermaLink="false">2ab45677-ba90-4ec2-8b9f-6028ec3d2080</guid>
             <pubDate>Fri, 15 Apr 2016 07:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UI Interactions of the week #20 - Muzli -Design Inspiration]]></title>
-            <description><![CDATA[<article><h1>UI Interactions of the week #20 - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efbe0fb4549eff105c4c63cef64adc2ac064d0bb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/service-design-by-labshare/ui-interactions-of-the-week-20-muzli-design-inspiration/index.html</link>
-            <guid isPermaLink="false">f1e1db64-709d-4e3c-915d-6483e8e74637</guid>
-            <pubDate>Thu, 14 Apr 2016 07:19:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
