@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 19:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 12:01:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -35,10 +35,31 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UI Interactions of the week #21 - Muzli -Design Inspiration]]></title>
+            <description><![CDATA[<article><h1>UI Interactions of the week #21 - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4620d61f3ad91bc1487147bedb23ab1da83260d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/ui-interactions-of-the-week-21-muzli-design-inspiration/index.html</link>
+            <guid isPermaLink="false">b90cf9ee-b87b-4fcc-9949-bcfdd02a6ee3</guid>
+            <pubDate>Tue, 19 Apr 2016 12:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truth Labs]]></title>
+            <description><![CDATA[<article><h1>Truth Labs</h1><p>A digital design studio in Chicago. We create products that make people's lives easier. We specialize in bespoke web, mobile, and experiential design. truthlabs.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925f9c977f686768818f877fa35b2b984082593d.png"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/truth-labs/index.html</link>
+            <guid isPermaLink="false">fcc3477b-08a3-4f4f-9193-907d7fb76db9</guid>
+            <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Designing Data-Driven Interfaces - Truth Labs]]></title>
             <description><![CDATA[<article><h1>Designing Data-Driven Interfaces - Truth Labs</h1><p>"Dashboard", "Big Data", "Data visualization", "Analytics" - there's been an explosion of people and companies looking to do interesting things with their data. I've been lucky to work on dozens of data-heavy interfaces throughout my career and I wanted to share some thoughts on how to arrive at a distinct and meaningful product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eb90076b7c74ffaa7e9de17f2d8e6fbb2716fdf.png"></article>]]></description>
             <link>https://thegrid.ai/service-design-by-labshare/designing-data-driven-interfaces-truth-labs/index.html</link>
             <guid isPermaLink="false">b94bb46b-77eb-4980-9545-2e693ac9594a</guid>
+            <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Re-thinking reading on the Web - Truth Labs]]></title>
+            <description><![CDATA[<article><h1>Re-thinking reading on the Web - Truth Labs</h1><p>A cinematic approach Rather than creating a series of interactive widgets embedded throughout the article, we decided to build an interactive narrative that flows alongside the copy. We used WebGL to build full 3D environments which gave us the flexibility to tell the story from a variety of perspectives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4e1180f9b7365321b6f20ebbce2558e4f0eeb6d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/re-thinking-reading-on-the-web-truth-labs/index.html</link>
+            <guid isPermaLink="false">e9191bbe-591f-4a8f-a689-84d62369d930</guid>
             <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
         </item>
         <item>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/service-design-by-labshare/ui-interactions-of-the-week-20-muzli-design-inspiration/index.html</link>
             <guid isPermaLink="false">f1e1db64-709d-4e3c-915d-6483e8e74637</guid>
             <pubDate>Thu, 14 Apr 2016 07:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design Maturity Survey]]></title>
-            <description><![CDATA[<article><h1>Design Maturity Survey</h1><p>Is design at the core of your organization? How do you increase its impact on your business? These are the insights our Design Maturity Survey strives to deliver. While doubts about investing in design are evaporating, methodologies on how to measure and improve its effectiveness are non-existent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c6ed377f1fce298ee5b453cad97146ee3491851.png"></article>]]></description>
-            <link>http://www.artefactgroup.stfi.re/content/design-maturity-survey/?sf=jnnxby</link>
-            <guid isPermaLink="false">21649ed4-75cb-4a90-909d-6cf38a7bef41</guid>
-            <pubDate>Thu, 14 Apr 2016 07:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Categorized 327 User Onboarding Experiences Into 9 UI Patterns (Find Out Which You Should Use)]]></title>
-            <description><![CDATA[<article><h1>We Categorized 327 User Onboarding Experiences Into 9 UI Patterns (Find Out Which You Should Use)</h1><p>User onboarding is a once in a user's lifecycle experience that-when done well-bridges a delicate journey between your sign up page and your user's first value gained from your product. We refer to this moment of value as a user's Wow or Aha! moment -Aha like, " Wow this is awesome!"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f56f1214fedfbc898c97b1de481045ae85d37406.png"></article>]]></description>
-            <link>http://www.appcues.stfi.re/blog/we-categorized-327-user-onboarding-experiences-into-9-ui-patterns/?sf=odwgzb</link>
-            <guid isPermaLink="false">c5e6eada-618f-477b-b77d-4074b3ddac8a</guid>
-            <pubDate>Wed, 06 Apr 2016 09:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Grow in 190 Markets: 4 Lessons from Airbnb]]></title>
-            <description><![CDATA[<article><h1>How to Grow in 190 Markets: 4 Lessons from Airbnb</h1><p>Few companies have had the kind of global success of Airbnb. Seven years ago, the company started in San Francisco, by allowing people to turn their spare bedrooms and homes into vacation rentals. Today, Airbnb has over 1,000,000 listings in 34,000 cities and 190 countries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/016d43965bfb77a1e8417b96d97248cb9b34da18.png"></article>]]></description>
-            <link>http://www.oneskyapp.stfi.re/blog/airbnb-global-growth/?sf=jnxblj</link>
-            <guid isPermaLink="false">4d31938a-f8e3-49c6-9950-4cb77982fb32</guid>
-            <pubDate>Wed, 06 Apr 2016 09:14:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
