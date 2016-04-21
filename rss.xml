@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 12:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 09:29:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[WMD 2015] Greylock Partners, Josh Elman "How To Build On Other Platforms"]]></title>
+            <description><![CDATA[<article><h1>[WMD 2015] Greylock Partners, Josh Elman "How To Build On Other Platforms"</h1><p>Josh Elman, Partner, Greylock Partners "Launching A Rocket Off Someone Else's Back: How To Build On Other Platforms" See Josh's deck at: http://www.slideshare.net/500startups/04-josh-elman-final?qid=31edf549-6014-4639-8f9b-a98ddb431ff8&v=default&b=&from_search=2 -~-~~-~~~-~~-~- Please watch: "Growing with Pinterest - Pinterest Marketing for Startups" ➨ https://www.youtube.com/watch?v=spjaZRokMVo -~-~~-~~~-~~-~-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/506d9d89eb6149ab2270b5f97c1addfb270308da.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=m0j1NaFpEkg</link>
+            <guid isPermaLink="false">ecce4c7c-fb9d-464d-95f9-d7c46354aa16</guid>
+            <pubDate>Thu, 21 Apr 2016 09:29:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Designing complex products - Truth Labs]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/service-design-by-labshare/re-thinking-reading-on-the-web-truth-labs/index.html</link>
             <guid isPermaLink="false">e9191bbe-591f-4a8f-a689-84d62369d930</guid>
             <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Designing complex products - Truth Labs]]></title>
-            <description><![CDATA[<article><h1>Designing complex products - Truth Labs</h1><p>Thoughts on managing complexity After the overwhelmingly positive interest in my Designing Data-Driven Interfaces article, I decided to write about this related and equally important topic: managing complexity. You know that unsettling feeling when you're half way through a project and you're presenting design concepts? No major feedback, smiles across the table, heads nodding yes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0203da62e819e8051b7ef6ba95d8be299bc7e25.png"></article>]]></description>
-            <link>http://medium.stfi.re/truth-labs/designing-complex-products-8f9289ab26c9?sf=jnpgxb#.mcksgtkb9</link>
-            <guid isPermaLink="false">2ab45677-ba90-4ec2-8b9f-6028ec3d2080</guid>
-            <pubDate>Fri, 15 Apr 2016 07:42:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
