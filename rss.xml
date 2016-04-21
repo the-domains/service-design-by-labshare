@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 09:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 09:29:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 7 Best Prototyping Tools for UI and UX Designers in 2016 - Prototyping: From UX to Front End]]></title>
+            <description><![CDATA[<article><h1>The 7 Best Prototyping Tools for UI and UX Designers in 2016 - Prototyping: From UX to Front End</h1><p>It is undoubted that UI/UX design is an important aspect of making a website or application work. Creating and improving products based on prototypes is growing in strength and the prototyping tools for designers are comes in all shapes and sizes these days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbc8a5b6be6e9c4966fc1bd0b45b020ac81c9778.png"></article>]]></description>
+            <link>https://blog.prototypr.io/the-7-best-prototyping-tools-for-ui-and-ux-designers-in-2016-701263ae65e8#.lyro5saon</link>
+            <guid isPermaLink="false">2a4a6cf5-aa5d-41b5-8d18-5a1b8ef11785</guid>
+            <pubDate>Thu, 21 Apr 2016 09:29:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[WMD 2015] Greylock Partners, Josh Elman "How To Build On Other Platforms"]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Designing Data-Driven Interfaces - Truth Labs</h1><p>"Dashboard", "Big Data", "Data visualization", "Analytics" - there's been an explosion of people and companies looking to do interesting things with their data. I've been lucky to work on dozens of data-heavy interfaces throughout my career and I wanted to share some thoughts on how to arrive at a distinct and meaningful product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eb90076b7c74ffaa7e9de17f2d8e6fbb2716fdf.png"></article>]]></description>
             <link>https://thegrid.ai/service-design-by-labshare/designing-data-driven-interfaces-truth-labs/index.html</link>
             <guid isPermaLink="false">b94bb46b-77eb-4980-9545-2e693ac9594a</guid>
-            <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Re-thinking reading on the Web - Truth Labs]]></title>
-            <description><![CDATA[<article><h1>Re-thinking reading on the Web - Truth Labs</h1><p>A cinematic approach Rather than creating a series of interactive widgets embedded throughout the article, we decided to build an interactive narrative that flows alongside the copy. We used WebGL to build full 3D environments which gave us the flexibility to tell the story from a variety of perspectives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4e1180f9b7365321b6f20ebbce2558e4f0eeb6d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/service-design-by-labshare/re-thinking-reading-on-the-web-truth-labs/index.html</link>
-            <guid isPermaLink="false">e9191bbe-591f-4a8f-a689-84d62369d930</guid>
             <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
         </item>
     </channel>
