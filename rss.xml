@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 09:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 11:19:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Priority Queue - Designing Ryanair's Boarding Pass]]></title>
+            <description><![CDATA[<article><h1>Priority Queue - Designing Ryanair's Boarding Pass</h1><p>The History of Ryanair's Boarding Pass The humble boarding pass, up until the mid 2000's was just a simple document to get you from the check-in desk to your airplane seat. Gate Number? Check. Seat Number? Check. Ample time to peruse the shops and sip a fine Italian macchiato while you waited for flight number to be called.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98bbe2df0ffc320998fde5f029fc1c5773c16ba6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/priority-queue-designing-ryanairs-boarding-pass/index.html</link>
+            <guid isPermaLink="false">f02d64d3-b267-4f54-bd98-a9fa044577d1</guid>
+            <pubDate>Tue, 26 Apr 2016 11:19:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 7 Best Prototyping Tools for UI and UX Designers in 2016 - Prototyping: From UX to Front End]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/service-design-by-labshare/ui-interactions-of-the-week-21-muzli-design-inspiration/index.html</link>
             <guid isPermaLink="false">b90cf9ee-b87b-4fcc-9949-bcfdd02a6ee3</guid>
             <pubDate>Tue, 19 Apr 2016 12:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Truth Labs]]></title>
-            <description><![CDATA[<article><h1>Truth Labs</h1><p>A digital design studio in Chicago. We create products that make people's lives easier. We specialize in bespoke web, mobile, and experiential design. truthlabs.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925f9c977f686768818f877fa35b2b984082593d.png"></article>]]></description>
-            <link>https://thegrid.ai/service-design-by-labshare/truth-labs/index.html</link>
-            <guid isPermaLink="false">fcc3477b-08a3-4f4f-9193-907d7fb76db9</guid>
-            <pubDate>Sat, 16 Apr 2016 19:54:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
