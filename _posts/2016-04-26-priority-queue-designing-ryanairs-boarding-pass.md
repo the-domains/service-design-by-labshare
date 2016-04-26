@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
   domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 keywords:
   - boarding
   - pass
@@ -47,16 +47,17 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
+isBasedOnUrl: 'https://medium.com/@aonghusdavoren/priority-queue-designing-ryanair-s-boarding-pass-a15895092211#.pttyqk6xs'
 title: "Priority Queue - Designing Ryanair's Boarding Pass"
-datePublished: '2016-04-26T11:19:08.892Z'
-dateModified: '2016-04-26T11:16:58.064Z'
-starred: false
+datePublished: '2016-04-26T11:20:31.125Z'
+dateModified: '2016-04-26T11:20:19.539Z'
 sourcePath: _posts/2016-04-26-priority-queue-designing-ryanairs-boarding-pass.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: priority-queue-designing-ryanairs-boarding-pass/index.html
+authors: []
+starred: true
 _type: Article
 _context: 'http://schema.org'
 
