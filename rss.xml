@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 11:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 11:21:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practical Service Design - guides, resources, and community]]></title>
@@ -33,6 +33,13 @@
             <link>http://vimeo.stfi.re/145936848?sf=bpnraa</link>
             <guid isPermaLink="false">f26e075a-5e43-4fcc-a9fd-a29dfa4ff4b9</guid>
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015]]></title>
+            <description><![CDATA[<article><h1>Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015</h1><p>How do you practice service design when you don't have the budget, time, or scope to impact the entire service? On my design team at American Express we've found crafty ways to get service design into every project - no matter how big or small.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aec5df5754be3696fbd37c6bb72d049349733052.jpg"></article>]]></description>
+            <link>https://vimeo.com/145936848</link>
+            <guid isPermaLink="false">c3a6ff3b-1f8a-41f1-b058-744b71176ed1</guid>
+            <pubDate>Tue, 26 Apr 2016 11:20:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Priority Queue - Designing Ryanair's Boarding Pass]]></title>
@@ -68,13 +75,6 @@
             <link>http://medium.stfi.re/truth-labs/designing-complex-products-8f9289ab26c9?sf=ywzjpe#.87f0jxjy8</link>
             <guid isPermaLink="false">65398605-d285-40cc-bd79-34920b8a3f45</guid>
             <pubDate>Tue, 19 Apr 2016 12:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UI Interactions of the week #21 - Muzli -Design Inspiration]]></title>
-            <description><![CDATA[<article><h1>UI Interactions of the week #21 - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4620d61f3ad91bc1487147bedb23ab1da83260d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/service-design-by-labshare/ui-interactions-of-the-week-21-muzli-design-inspiration/index.html</link>
-            <guid isPermaLink="false">b90cf9ee-b87b-4fcc-9949-bcfdd02a6ee3</guid>
-            <pubDate>Tue, 19 Apr 2016 12:01:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
