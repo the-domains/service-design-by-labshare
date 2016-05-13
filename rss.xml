@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 12:08:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Priority Queue - Designing Ryanair's Boarding Pass]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Content-First Prototyping - Smashing Magazine]]></title>
+            <description><![CDATA[<article><h1>Content-First Prototyping - Smashing Magazine</h1><p>Content is the core commodity of the digital economy. It is the gold we fashion into luxury experience, the diamond we encase in loyalty programs and upsells. Yet, as designers, we often plug it in after the fact. We prototype our interaction and visual design to exhaustion, but accept that the "real words" can just be dropped in later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/897343d523b8a9000794b673848b541896f70087.png"></article>]]></description>
+            <link>https://www.smashingmagazine.com/2016/05/content-first-prototyping/</link>
+            <guid isPermaLink="false">81723ead-f4f2-43c1-a30b-fd49c909bd4b</guid>
+            <pubDate>Fri, 13 May 2016 12:08:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Resource Cards - Selected free resources for designers]]></title>
             <description><![CDATA[<article><h1>Resource Cards - Selected free resources for designers</h1><p>Resource Cards is a growing list of free resources aimed to help creatives with their next project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dbf6d35872269f873dd62f728aff31dd01a39f1.png"></article>]]></description>
             <link>https://resourcecards.com/?ref=producthunt</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The 7 Best Prototyping Tools for UI and UX Designers in 2016 - Prototyping: From UX to Front End</h1><p>It is undoubted that UI/UX design is an important aspect of making a website or application work. Creating and improving products based on prototypes is growing in strength and the prototyping tools for designers are comes in all shapes and sizes these days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbc8a5b6be6e9c4966fc1bd0b45b020ac81c9778.png"></article>]]></description>
             <link>https://blog.prototypr.io/the-7-best-prototyping-tools-for-ui-and-ux-designers-in-2016-701263ae65e8#.lyro5saon</link>
             <guid isPermaLink="false">2a4a6cf5-aa5d-41b5-8d18-5a1b8ef11785</guid>
-            <pubDate>Thu, 21 Apr 2016 09:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[40 Mobile Apps Onboarding Designs for Your Inspiration]]></title>
-            <description><![CDATA[<article><h1>40 Mobile Apps Onboarding Designs for Your Inspiration</h1><p>The very first thing users see when downloading an app these days is an onboarding screen. An onboarding screen is like a walkthrough, aimed to introduce what an app does to a user and of course how to use it. Thta's the simplest way of describing it. Designing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9ebf7bd02e634b88e4aa656a1560d2d1844c824.jpg"></article>]]></description>
-            <link>http://www.hongkiat.stfi.re/blog/mobile-onboarding-screen-designs/?sf=aezera</link>
-            <guid isPermaLink="false">09bfc080-6f53-4365-b295-e8c70129a200</guid>
             <pubDate>Thu, 21 Apr 2016 09:29:15 GMT</pubDate>
         </item>
     </channel>
