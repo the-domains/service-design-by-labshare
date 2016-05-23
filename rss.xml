@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 08:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 08:36:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Priority Queue - Designing Ryanair's Boarding Pass]]></title>
@@ -42,6 +42,20 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to apply a design thinking, HCD, UX or any creative process from scratch - Digital Experience Design]]></title>
+            <description><![CDATA[<article><h1>How to apply a design thinking, HCD, UX or any creative process from scratch - Digital Experience Design</h1><p>How to apply a design thinking, HCD, UX or any creative process from scratch This how-to article aims at providing designers, creative thinkers or even project managers with a tool to set up, frame, organise, structure, run or manage design challenges, and projects: The Double Diamond revamped.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4f17515bf2dd566ab34ffe3c3e80807aee84dda.png"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-proc/index.html</link>
+            <guid isPermaLink="false">90b6f34d-5814-4f90-9678-180b8d5bfafb</guid>
+            <pubDate>Mon, 23 May 2016 08:35:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Siri creator may need Amazon or Apple's help (again) for Viv, his voice assistant for everything]]></title>
+            <description><![CDATA[<article><h1>Siri creator may need Amazon or Apple's help (again) for Viv, his voice assistant for everything</h1><p>Despite the media hoopla surrounding a recent public demonstration of Viv - a work-in-progress, artificial intelligence personal assistant from the creator of Siri, this potential " intelligent interface for everything " may be overrun before it even launches. Amazon, Facebook and Google have built intelligent assistants, and an entire ecosystem of bots is forming to usher in a new era of messaging.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c87a86e2f713ba5fbf2cc468a2998e2187908b8d.png"></article>]]></description>
+            <link>http://venturebeat.com/2016/05/20/siri-creator-may-need-amazon-or-apples-help-again-for-viv-his-voice-assistant-for-everything/</link>
+            <guid isPermaLink="false">e7d3f240-3253-4cfd-9072-29aee58740a9</guid>
+            <pubDate>Mon, 23 May 2016 08:35:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Virtual reality will continue to disappoint, even when it's awesome]]></title>
             <description><![CDATA[<article><h1>Virtual reality will continue to disappoint, even when it's awesome</h1><p>Virtual reality (VR) and augmented reality (AR) technologies may get a lot of love from venture capitalists and the tech community, but most people still don't know what they are. All they have to go on is what they see in the movies: the Terminator and Iron Man use AR, and The Matrix and Tron are about VR.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eecb3b8fae4b950623b8844386d3f59cb5d0c6bb.jpg"></article>]]></description>
             <link>http://venturebeat.stfi.re/2016/05/21/virtual-reality-will-continue-to-disappoint-even-when-its-awesome/?sf=roplaaj</link>
@@ -61,20 +75,6 @@
             <link>http://abduzeedo.stfi.re/new-tendencies-web-design?sf=ezobbbb</link>
             <guid isPermaLink="false">01eecec2-6d66-4ff4-bf59-2b0e2cf8f079</guid>
             <pubDate>Sun, 15 May 2016 18:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UI Inspiration: Mobile Interactions]]></title>
-            <description><![CDATA[<article><h1>UI Inspiration: Mobile Interactions</h1><p>In one of my previous articles, I mentioned that we will see more and more subtle interactions in the upcoming weeks and year.</p></article>]]></description>
-            <link>http://abduzeedo.com/ui-inspiration-mobile-interactions?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+abduzeedo+%28Abduzeedo+Feed%29</link>
-            <guid isPermaLink="false">99fa03ec-dbc4-4bb9-b5c2-81ecac4c618d</guid>
-            <pubDate>Sun, 15 May 2016 18:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Content-First Prototyping - Smashing Magazine]]></title>
-            <description><![CDATA[<article><h1>Content-First Prototyping - Smashing Magazine</h1><p>Content is the core commodity of the digital economy. It is the gold we fashion into luxury experience, the diamond we encase in loyalty programs and upsells. Yet, as designers, we often plug it in after the fact. We prototype our interaction and visual design to exhaustion, but accept that the "real words" can just be dropped in later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/897343d523b8a9000794b673848b541896f70087.png"></article>]]></description>
-            <link>https://www.smashingmagazine.com/2016/05/content-first-prototyping/</link>
-            <guid isPermaLink="false">81723ead-f4f2-43c1-a30b-fd49c909bd4b</guid>
-            <pubDate>Fri, 13 May 2016 12:08:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
