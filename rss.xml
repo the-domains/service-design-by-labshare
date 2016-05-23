@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 08:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 08:36:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Priority Queue - Designing Ryanair's Boarding Pass]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Virtual reality will continue to disappoint, even when it's awesome]]></title>
+            <description><![CDATA[<article><h1>Virtual reality will continue to disappoint, even when it's awesome</h1><p>Virtual reality (VR) and augmented reality (AR) technologies may get a lot of love from venture capitalists and the tech community, but most people still don't know what they are. All they have to go on is what they see in the movies: the Terminator and Iron Man use AR, and The Matrix and Tron are about VR.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eecb3b8fae4b950623b8844386d3f59cb5d0c6bb.jpg"></article>]]></description>
+            <link>http://venturebeat.stfi.re/2016/05/21/virtual-reality-will-continue-to-disappoint-even-when-its-awesome/?sf=roplaaj</link>
+            <guid isPermaLink="false">86ec37e5-3feb-4ae3-9be4-3b03b69097da</guid>
+            <pubDate>Mon, 23 May 2016 08:35:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stop overthinking UX and try the coffee shop test]]></title>
             <description><![CDATA[<article><h1>Stop overthinking UX and try the coffee shop test</h1><p>If you work in product development you hear a lot about user interface (UI) and user experience (UX). When people don't really know what they are talking about, they use these terms interchangeably, along with buzz phrases like "human-centric design," "process guided customer control groups," and "brand-focused KPIs synergistic with user needs."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb247319ed2071fe52181c05afe71ceb6a5bc8c0.jpg"></article>]]></description>
             <link>http://venturebeat.stfi.re/2016/05/22/stop-overthinking-ux-and-try-the-coffee-shop-test/?sf=roplanx</link>
@@ -68,13 +75,6 @@
             <link>https://www.smashingmagazine.com/2016/05/content-first-prototyping/</link>
             <guid isPermaLink="false">81723ead-f4f2-43c1-a30b-fd49c909bd4b</guid>
             <pubDate>Fri, 13 May 2016 12:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resource Cards - Selected free resources for designers]]></title>
-            <description><![CDATA[<article><h1>Resource Cards - Selected free resources for designers</h1><p>Resource Cards is a growing list of free resources aimed to help creatives with their next project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dbf6d35872269f873dd62f728aff31dd01a39f1.png"></article>]]></description>
-            <link>https://resourcecards.com/?ref=producthunt</link>
-            <guid isPermaLink="false">8c955bae-98e9-4b75-9118-33449190d353</guid>
-            <pubDate>Thu, 05 May 2016 13:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
