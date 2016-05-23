@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 18:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 08:36:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Priority Queue - Designing Ryanair's Boarding Pass]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stop overthinking UX and try the coffee shop test]]></title>
+            <description><![CDATA[<article><h1>Stop overthinking UX and try the coffee shop test</h1><p>If you work in product development you hear a lot about user interface (UI) and user experience (UX). When people don't really know what they are talking about, they use these terms interchangeably, along with buzz phrases like "human-centric design," "process guided customer control groups," and "brand-focused KPIs synergistic with user needs."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb247319ed2071fe52181c05afe71ceb6a5bc8c0.jpg"></article>]]></description>
+            <link>http://venturebeat.stfi.re/2016/05/22/stop-overthinking-ux-and-try-the-coffee-shop-test/?sf=roplanx</link>
+            <guid isPermaLink="false">3e20f1f3-a0ce-470d-b656-1bdd35d3c431</guid>
+            <pubDate>Mon, 23 May 2016 08:35:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Tendencies in Web Design]]></title>
             <description><![CDATA[<article><h1>New Tendencies in Web Design</h1><p>I have talked a lot about what I think the new trends of design for the web are. I shared a few projects that had some of the elements and styles that I believe are becoming the new trend in web design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc97ca14ccde3a6b20bdc257515c9603abb696b8.jpg"></article>]]></description>
             <link>http://abduzeedo.stfi.re/new-tendencies-web-design?sf=ezobbbb</link>
@@ -68,13 +75,6 @@
             <link>https://resourcecards.com/?ref=producthunt</link>
             <guid isPermaLink="false">8c955bae-98e9-4b75-9118-33449190d353</guid>
             <pubDate>Thu, 05 May 2016 13:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UI Interactions of the week #22 - Muzli -Design Inspiration]]></title>
-            <description><![CDATA[<article><h1>UI Interactions of the week #22 - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dda955727c4a17a7851bda25f00755b9743e2bc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/service-design-by-labshare/ui-interactions-of-the-week-22-muzli-design-inspiration/index.html</link>
-            <guid isPermaLink="false">ac8ce353-3133-4863-9d5e-2004556c3bf0</guid>
-            <pubDate>Thu, 28 Apr 2016 14:20:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
