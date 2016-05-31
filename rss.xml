@@ -4,8 +4,15 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 08:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 06:05:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015]]></title>
+            <description><![CDATA[<article><h1>Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015</h1><p>How do you practice service design when you don't have the budget, time, or scope to impact the entire service? On my design team at American Express we've found crafty ways to get service design into every project - no matter how big or small.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aec5df5754be3696fbd37c6bb72d049349733052.jpg"></article>]]></description>
+            <link>https://vimeo.com/145936848</link>
+            <guid isPermaLink="false">c3a6ff3b-1f8a-41f1-b058-744b71176ed1</guid>
+            <pubDate>Tue, 31 May 2016 06:05:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Priority Queue - Designing Ryanair's Boarding Pass]]></title>
             <description><![CDATA[<article><h1>Priority Queue - Designing Ryanair's Boarding Pass</h1><p>The History of Ryanair's Boarding Pass The humble boarding pass, up until the mid 2000's was just a simple document to get you from the check-in desk to your airplane seat. Gate Number? Check. Seat Number? Check. Ample time to peruse the shops and sip a fine Italian macchiato while you waited for flight number to be called.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98bbe2df0ffc320998fde5f029fc1c5773c16ba6.jpg"></article>]]></description>
@@ -42,6 +49,13 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to apply a design thinking, HCD, UX or any creative process from scratch - Digital Experience Design]]></title>
+            <description><![CDATA[<article><h1>How to apply a design thinking, HCD, UX or any creative process from scratch - Digital Experience Design</h1><p>How to apply a design thinking, HCD, UX or any creative process from scratch This how-to article aims at providing designers, creative thinkers or even project managers with a tool to set up, frame, organise, structure, run or manage design challenges, and projects: The Double Diamond revamped.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4f17515bf2dd566ab34ffe3c3e80807aee84dda.png"></article>]]></description>
+            <link>https://thegrid.ai/service-design-by-labshare/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-proc/index.html</link>
+            <guid isPermaLink="false">90b6f34d-5814-4f90-9678-180b8d5bfafb</guid>
+            <pubDate>Mon, 23 May 2016 08:35:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Siri creator may need Amazon or Apple's help (again) for Viv, his voice assistant for everything]]></title>
             <description><![CDATA[<article><h1>Siri creator may need Amazon or Apple's help (again) for Viv, his voice assistant for everything</h1><p>Despite the media hoopla surrounding a recent public demonstration of Viv - a work-in-progress, artificial intelligence personal assistant from the creator of Siri, this potential " intelligent interface for everything " may be overrun before it even launches. Amazon, Facebook and Google have built intelligent assistants, and an entire ecosystem of bots is forming to usher in a new era of messaging.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c87a86e2f713ba5fbf2cc468a2998e2187908b8d.png"></article>]]></description>
             <link>http://venturebeat.com/2016/05/20/siri-creator-may-need-amazon-or-apples-help-again-for-viv-his-voice-assistant-for-everything/</link>
@@ -61,20 +75,6 @@
             <link>http://venturebeat.stfi.re/2016/05/22/stop-overthinking-ux-and-try-the-coffee-shop-test/?sf=roplanx</link>
             <guid isPermaLink="false">3e20f1f3-a0ce-470d-b656-1bdd35d3c431</guid>
             <pubDate>Mon, 23 May 2016 08:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Tendencies in Web Design]]></title>
-            <description><![CDATA[<article><h1>New Tendencies in Web Design</h1><p>I have talked a lot about what I think the new trends of design for the web are. I shared a few projects that had some of the elements and styles that I believe are becoming the new trend in web design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc97ca14ccde3a6b20bdc257515c9603abb696b8.jpg"></article>]]></description>
-            <link>http://abduzeedo.stfi.re/new-tendencies-web-design?sf=ezobbbb</link>
-            <guid isPermaLink="false">01eecec2-6d66-4ff4-bf59-2b0e2cf8f079</guid>
-            <pubDate>Sun, 15 May 2016 18:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UI Inspiration: Mobile Interactions]]></title>
-            <description><![CDATA[<article><h1>UI Inspiration: Mobile Interactions</h1><p>In one of my previous articles, I mentioned that we will see more and more subtle interactions in the upcoming weeks and year.</p></article>]]></description>
-            <link>http://abduzeedo.com/ui-inspiration-mobile-interactions?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+abduzeedo+%28Abduzeedo+Feed%29</link>
-            <guid isPermaLink="false">99fa03ec-dbc4-4bb9-b5c2-81ecac4c618d</guid>
-            <pubDate>Sun, 15 May 2016 18:20:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
