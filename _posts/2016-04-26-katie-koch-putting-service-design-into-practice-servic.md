@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords: []
 description: "How do you practice service design when you don't have the budget, time, or scope to impact the entire service? On my design team at American Express we've found crafty ways to get service design into every project - no matter how big or small."
 app_links:
@@ -40,14 +40,15 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/145936848'
 title: Katie Koch // Putting Service Design Into Practice // Service Experience Conference 2015
-datePublished: '2016-04-26T11:20:14.455Z'
-dateModified: '2016-04-24T15:24:47.993Z'
-starred: false
+datePublished: '2016-05-31T06:05:04.339Z'
+dateModified: '2016-04-26T11:20:22.706Z'
 sourcePath: _posts/2016-04-26-katie-koch-putting-service-design-into-practice-servic.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+authors: []
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
