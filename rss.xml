@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 08:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 08:29:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Explore the Engineering Platform for Your]]></title>
@@ -56,13 +56,6 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Radical Design Led Innovation]]></title>
-            <description><![CDATA[<article><h1>Radical Design Led Innovation</h1><p>PwC Digital designer, Alex Gamble, talks about how designers can radically innovate. He shares what radical innovation is and describes his method to achieve it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24a6886832e7f95b4ace368fb59987e934ecc6e0.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=kE8Gyxb4HKo</link>
-            <guid isPermaLink="false">8f1101bb-fb22-4ac8-be42-6ddb8391c564</guid>
-            <pubDate>Thu, 09 Jun 2016 08:29:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[May Update of Adobe Experience Design CC | Creative Cloud blog by Adobe]]></title>
             <description><![CDATA[<article><h1>May Update of Adobe Experience Design CC | Creative Cloud blog by Adobe</h1><p>On behalf of the whole XD team at Adobe, I'm thrilled to announce that our May update for Adobe Experience Design CC is ready for you to download. First of all, thank you for all your feedback, both positive and constructive!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e23b7b00177381dc091c84c672669fd5b54b3dfd.png"></article>]]></description>
             <link>http://blogs.adobe.com/creativecloud/may-update-of-adobe-experience-design-cc/?scid=social62234726&amp;adbid=1099022796807719&amp;adbpl=fb&amp;adbpr=341657335877606</link>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/service-design-by-labshare/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-proc/index.html</link>
             <guid isPermaLink="false">90b6f34d-5814-4f90-9678-180b8d5bfafb</guid>
             <pubDate>Mon, 23 May 2016 08:35:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Siri creator may need Amazon or Apple's help (again) for Viv, his voice assistant for everything]]></title>
+            <description><![CDATA[<article><h1>Siri creator may need Amazon or Apple's help (again) for Viv, his voice assistant for everything</h1><p>Despite the media hoopla surrounding a recent public demonstration of Viv - a work-in-progress, artificial intelligence personal assistant from the creator of Siri, this potential " intelligent interface for everything " may be overrun before it even launches. Amazon, Facebook and Google have built intelligent assistants, and an entire ecosystem of bots is forming to usher in a new era of messaging.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c87a86e2f713ba5fbf2cc468a2998e2187908b8d.png"></article>]]></description>
+            <link>http://venturebeat.com/2016/05/20/siri-creator-may-need-amazon-or-apples-help-again-for-viv-his-voice-assistant-for-everything/</link>
+            <guid isPermaLink="false">e7d3f240-3253-4cfd-9072-29aee58740a9</guid>
+            <pubDate>Mon, 23 May 2016 08:35:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
