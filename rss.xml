@@ -4,7 +4,7 @@
         <description><![CDATA[Design engineering services by service design and business architecture]]></description>
         <link>https://thegrid.ai/service-design-by-labshare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 14:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 10:12:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/service-design-by-labshare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Explore the Engineering Platform for Your]]></title>
@@ -56,6 +56,13 @@
             <pubDate>Wed, 03 Feb 2016 13:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Web Layout Best Practices: 12 Timeless UI Patterns Analyzed]]></title>
+            <description><![CDATA[<article><h1>Web Layout Best Practices: 12 Timeless UI Patterns Analyzed</h1><p>People don't visit websites for the design - they want content. As explained in Web UI Patterns 2016 Vol. 1, design is just a means of presenting content in the most intuitive and useful manner.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/323ddafbd7afc3345dacfff16b695263/noop.png?input=https%3A%2F%2F17404-presscdn-0-71-pagely.netdna-ssl.com%2Fstudio%2Fwp-content%2Fuploads%2F2016%2F06%2FScreen-Shot-2016-06-15-at-7.53.50-PM.png"></article>]]></description>
+            <link>https://www.uxpin.com/studio/blog/web-layout-best-practices-12-timeless-ui-patterns-explained/?utm_source=facebook&amp;utm_medium=uxlink&amp;utm_campaign=social%20media&amp;utm_content=blog%20post</link>
+            <guid isPermaLink="false">c5427ce0-9ff8-41d2-8ce3-c4b3dfb4ff3b</guid>
+            <pubDate>Tue, 19 Jul 2016 10:12:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Airbnb case study: How design helps cross-culture business - uxdesign.cc - User Experience Design]]></title>
             <description><![CDATA[<article><h1>Airbnb case study: How design helps cross-culture business - uxdesign.cc - User Experience Design</h1><p>Today, Airbnb does business in 191 countries. It's important for the company to maintain its brand in the international markets. Katie talked about how Airbnb uses design rules to keep branding consistent. In addition, they have to ensure quality experience every time - reliable, safe, trustworthy everywhere.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87c5076f15dbb70c7f2b01784dc1a55a/noop.jpeg?input=https%3A%2F%2Fcdn-images-2.medium.com%2Fmax%2F1200%2F1*qDQ8I3ArvIkzAj3ohYfZoQ.jpeg"></article>]]></description>
             <link>https://uxdesign.cc/airbnb-case-study-how-design-helps-cross-culture-business-e0b97a0852aa#.i4l3tn1fr</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/service-design-by-labshare/traversing-the-ux-prototyping-landscape-lucid-software-des/index.html</link>
             <guid isPermaLink="false">204a6668-5638-412b-9332-ed72504f7557</guid>
             <pubDate>Tue, 21 Jun 2016 07:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Complete Roadmap To Building A Delightful Onboarding Experience For Mobile App Users - Smashing Magazine]]></title>
-            <description><![CDATA[<article><h1>A Complete Roadmap To Building A Delightful Onboarding Experience For Mobile App Users - Smashing Magazine</h1><p>When launching an app, you need to spend a lot of time and resources to attract users. You can pull people into your app using a variety of means, including advertising, referral programs, public relations and content marketing. But when people finally download an app, they sometimes feel abandoned.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6259f61196cf37017060d8824a54eb5/croprotate.jpg?cropheight=1476&cropwidth=650&degrees=0&input=https%3A%2F%2Fmedia-mediatemple.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F03%2F02-beats-preview-opt.jpg&x=143&y=40"></article>]]></description>
-            <link>https://www.smashingmagazine.com/2016/06/complete-roadmap-building-delightful-onboarding-experience-mobile-app-users/</link>
-            <guid isPermaLink="false">ffdc1dbf-6296-482e-b899-28ed4efa7bb1</guid>
-            <pubDate>Tue, 21 Jun 2016 07:47:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
