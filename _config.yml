@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Open Innovation Platform
+    url: 'http://www.labsharegroup.com/'
+    type: external
 favicon: null
 title: Design engineering services by service design and business architecture
 description: Experience Design
