@@ -28,6 +28,9 @@ navigation:
   - name: Open Innovation Platform
     url: 'http://www.labsharegroup.com/'
     type: external
+  - name: Business Architecture
+    url: 'http://www.buildventure.net/'
+    type: external
 favicon: null
 title: Design engineering services by service design and business architecture
 description: Experience Design
