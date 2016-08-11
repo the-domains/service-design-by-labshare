@@ -1,20 +1,4 @@
-name: Service Design by Labshare
-favicon: null
-layout_spectrum: 0.09094
 typography_spectrum: 0.721284
-title: Design engineering services by service design and business architecture
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#C0C0B0'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8125
   saturation: 0.5625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.09094
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Service Design by Labshare
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Design engineering services by service design and business architecture
+description: Experience Design
 purpose: []
