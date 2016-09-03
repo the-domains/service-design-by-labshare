@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: tibor zahorecz
+  email: tibor.zahorecz@dosell.io
+  url: 'http://www.labsharegroup.com/'
 name: Service Design by Labshare
 cta:
   domain: null
@@ -31,7 +35,8 @@ navigation:
   - name: Business Architecture
     url: 'http://www.buildventure.net/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e60aea7c-8866-4cf8-9b92-989ea90a5507.jpg
 title: Design engineering services by service design and business architecture
 description: Experience Design
 purpose: []
